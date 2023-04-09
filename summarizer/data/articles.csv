@@ -1,0 +1,895 @@
+,url,text
+0,https://enterprise-knowledge.com/5-steps-to-enhance-search-with-a-knowledge-graph/,"
+As search engines and portals evolve, users have come to expect more advanced features common to popular websites like Google or Amazon. Users expect search engines to understand what they are asking for and give them the ability to easily scan and drill down to the desired information.
+Knowledge graphs are commonly paired with enterprise search to meet these expectations, enabling users to explore connections between information and extend search results with contextual data. To help get started enhancing your search results with a knowledge graph, we put together the following five-step process that adheres to search, knowledge graph, and search design best practices.
+
+For a deeper dive into each of the five steps, check out my corresponding white paper on the topic. EK has expertise in enterprise search, ontology design, and knowledge graph implementations, and we would love to work with you on your next search journey. Please feel free to contact us for more information.
+
+
+
+
+"
+1,https://enterprise-knowledge.com/applied-knowledge-management-series-part-1-addressing-challenges-at-large-enterprises/,"
+While Knowledge Management (KM) is critical for organizations of every shape and size, KM is often the key to longevity and success for large enterprises that must be able to adapt to volatility and constant change. Through our partnerships with industry-leading corporations around the world, our experts at Enterprise Knowledge (EK) have found that these organizations often share common challenges that can be mediated by engaging in good KM. In this two-part blog series, I discuss six common challenges experienced by Fortune 500 and multinational organizations and offer solutions to them, providing explanations, justifications, and use cases for each. 
+In this Part I, I walk through sections about anticipating and reacting to change within an organization, the common dilemma of consolidating or integrating technical solutions, and the significance of prioritizing business value during strategy and design initiatives. In Part II, I will address the advantages of building to scale for technical and non-technical solutions, the benefits of engaging a diverse audience, and the importance of educating stakeholders on how to maintain solutions in the long-term. By reading this blog series you will obtain valuable best practices, real-life applications, and comprehensive solutions to common organizational challenges at large enterprises, providing you with a better understanding of how to assess the current state and maturity of your organization, and potentially even a valuable starting point for solving an existing problem that you’re experiencing. 
+1. Anticipate Change
+
+Prolonged success at any large organization can be dependent on its ability to manage change. Large organizations are often in flux, and rapidly changing environments require rapidly evolving products and processes. It is key to consistently evaluate and re-evaluate your enterprise processes and organizational structure to ensure they are fulfilling the requirements of your organization and enabling employees to effectively execute their job responsibilities.
+Business agility, or lack thereof, for large organizations can appear in many different forms. I recently worked with an organization that underwent a series of mergers and acquisitions, and as a result, their organizational landscape was highly siloed and fragmented. The organization was financially integrated under one name, but from a logistical and operational standpoint, business units and teams were not communicating or sharing critical information with one another. As a result, many of the same or similar processes were being executed in various locations across the enterprise without leveraging each other, and it was also very difficult to find a piece of content located in another repository. This duplication of workflows and content, as well as the lack of synergy between adjacent business units and teams, was costing the organization time and resources that could have been allocated more effectively, ultimately resulting in increased bottom-line costs.
+One solution that EK recommended for this organization to combat these issues was the implementation of a KM Leadership structure to establish dedicated KM team members to initiate and guide a KM program, promoting cross-functional relationships throughout the enterprise and encouraging knowledge and information transfer. To complement the KM Leadership structure, EK also recommended a KM Governance model to mitigate risks and bad habits such as recreating pre-existing documentation or artifacts, storing content in the wrong location or tagging it incorrectly, utilizing an inaccurate or outdated piece of content, wasting hours searching for a piece of content that someone may or may not have access to, failing to update or archive obsolete content, or utilizing informal networks to access experts or colleagues.
+2. Consolidate or Integrate
+Maintaining too many disjointed systems can present challenges from a logistical perspective, creating confusion for users on where to store and find content, as well as how to share things across platforms. It is very common for large organizations to have an array of systems, repositories, and tools that comprise their technical stack, many of which overlap in function and purpose. It is also not uncommon for these systems to be disparate, meaning that systems cannot effectively “speak” to one another through integrations or channels. If systems are disjointed, and an organization does not possess a universal search tool that’s integrated with the necessary systems and tools, employees must often navigate through each individual repository when trying to locate a piece of content or even ask a colleague to find it for them. 
+An initial knee-jerk reaction may be to consolidate repetitive systems and migrate all relevant content to a single platform in order to mitigate confusion and ultimately lower overhead and subscription costs. While system consolidation is a viable solution in some use cases, it is equally important to understand that large organizations typically consist of many different employee types, teams, and business units, all of which can use different tools based on personal preferences and workflows. While this can be logistically challenging, organizations need to be extremely careful not to consolidate or remove systems that are integral to certain workflows, particularly ones inherent to creative processes that have propelled the organization to innovate and be successful within its given space. Just because an organization possesses multiple different systems that have certain core functionalities and applications in common, does not necessarily mean that these systems should all be consolidated into one. 
+Good KM can prevent this. A common best practice during the initiation of any technical evaluation is to engage with stakeholders from across the organization to understand their workflow priorities before removing any tools. Furthermore, one possible alternative to any sort of system consolidation is an enterprise taxonomy, or in other words, a controlled vocabulary used to describe or characterize explicit concepts of information for the purposes of capturing and managing content at an organizational level. Designing and implementing an enterprise taxonomy into prioritized repositories to universally tag content, utilized in tandem with a taxonomy management tool and an enterprise search tool, can help organizations realize and overcome their inefficiencies without having to make any major system changes or disrupt workflows.  
+A good example of this came during an engagement with a multinational technology firm, where one team used SharePoint as their knowledge base, and another team used an internally developed software to house their day-to-day information and content. As each team was only familiar with and had the necessary permissions to its own respective system, it was challenging to navigate another repository when working together on adjacent initiatives. The organization did not want to consolidate either system as there were viable use cases for both, and removing one would have disrupted workflows even more. Knowing this, EK proposed that the organization design and implement an enterprise taxonomy that could be integrated into the existing enterprise search tool and the prioritized repositories. This enabled employees to universally search and pull content across disparate systems, empowering them to find and leverage information significantly quicker and easier than before, enhancing both employee satisfaction and productivity. 
+3. Prioritize Business Value
+KM success at large organizations is often defined by what tangible Return on Investment (ROI) is attained as a result of a given effort. It can be difficult to garner buy-in for KM without quantifiable metrics to support it, and when acting on a limited budget, prioritizing processes or systems that are directly tied to business outcomes and/or end-users can be a key component in the success of a given initiative. During any KM engagement, it’s important to understand and prioritize the sections of the organization that require the most immediate attention and will translate into clear, palpable ROI. 
+Furthermore, successful engagements that demonstrate immediate business value to an organization and its end-users can also be helpful in garnering institutional buy-in for KM. Being able to tangibly demonstrate how a KM initiative solved an existing problem, and in turn, definitively improved a business process or output, shows the concrete value of KM and incentivizes more comprehensive support for KM from across the organization. 
+During one recent engagement, another large technology firm was struggling with the findability, discoverability, accuracy, and relevancy of its content, and it was also seeking to lay a foundation for the future of remote work. The organization was composed of numerous different teams and business units, many of which struggled to find the data and information they needed to execute their day-to-day workflows. While the organization wanted to solve this problem at an enterprise level, they needed to prioritize sections of the organization that would provide the most immediate business value because they did not yet have the resources to address the problem enterprise-wide. EK worked with the organization in selecting which business units and/or teams could enable “quick-wins” and prioritized them when making recommendations. EK provided recommendations to the organization on three primary areas: Enterprise Search, Content Strategy, and KM Leadership and Governance. These recommendations were focused on the areas of the organization that had been mutually identified as those which will provide the most immediate value, but also provided scaling models for how to most effectively expand the solutions to the rest of the enterprise. The organization was so satisfied with our work that they re-engaged EK to begin executing the recommendations in 2023. 
+Conclusion
+Whether you’re anticipating a major organizational change on the horizon, or planning on implementing a new strategy or solution to your environment to solve an existing problem, KM transformations can be complex and difficult to manage. If these challenges sound applicable to you or your organization, EK’s expert consultants, designers, architects, and engineers are available to assist your organization with any and all of its organizational needs. 
+Stay tuned for Part II where I will walk through the advantages of building to scale for technical and non-technical solutions, the benefits of engaging a diverse audience, and the importance of educating stakeholders on how to maintain solutions in the long-term.
+
+
+
+
+"
+2,https://enterprise-knowledge.com/breaking-it-down-what-is-gamification/,"
+When I talk about gamification, I often use these three E’s: exciting, engaging, and encouraging. These three concepts explain how gamification, the art of applying game design principles to non-game situations, can support a healthy work environment, improve employee satisfaction, and increase productivity. Gamification is often key to user adoption of technology and processes, as well as long-term program success.
+Gamification can be applied to a number of workplace activities, and there are plenty of techniques to be leveraged. After providing some background on gamification and common gamification techniques, I’m going to provide four gamification use cases, a proposed approach, and the benefits of each.
+
+Defining Gamification
+One of the initial goals of gamification was to make consumer software more engaging. Software designers turned to motivational techniques standard in games, both digital and non-digital, and started to leverage concepts such as points and rewards to increase appeal. Gamification has been adopted more and grown in scope over the last decade, but the main idea has remained the same.
+
+Gamification is applying game concepts to improve user experience in non-game situations.
+
+To deepen our understanding of what gamification means, let’s take a look at some commonly used game concepts.
+Rules
+The first game concept used in gamification is rules. While often the opposite of engaging and fun, rules are leveraged to give users the criteria and guidelines for success. Rules present answers to the following player questions:
+
+What could disqualify me from participating?
+When can I make progress toward a goal?
+How do I know that I have completed the activity?
+What limits the amount of success that I can achieve in one session?
+
+Nobody likes restrictions that hold them back, but participants can use rules to completely understand the game and maximize their own success. To facilitate this, rules need to be clearly communicated to ensure participants are not confused, overwhelmed, or discouraged from continuing. Additionally, rules help organizations confirm that users are learning, i.e. requiring users to complete a quiz or other learning step before earning a reward. A well-written set of rules can be the difference maker when attracting participants and keeping them engaged.
+Points
+Points are a gamification system for tracking task completion. Determining what tasks (or achievements) provide points is a key part of game design. Participants should receive points for achieving certain results, whether that be watching training videos, meeting learning objectives, or completing activities within a time structure to encourage retention. Similar to rules, points motivate participants to complete activities and maximize their output.
+Once participants start earning points, they typically begin competing with themselves and their peers to earn the most points. A natural extension of this in gamification is to include a leaderboard so that participants can see where they fall and compete to rank higher than their colleagues. In this way, points provide a visual representation of the growth and learning achieved by a user up until that point. Points and leaderboards can be a successful addition and motivate employees to complete more tasks, but they’re not for everyone. The goal of points is to give participants a sense of accomplishment so that they continue to complete tasks. Some users may find this daunting, so other techniques may be necessary.
+
+Rewards
+Often the hook that entices players to keep going and grind to win, rewards are incentives for participation and success. While points are one type of reward, rewards can be
+
+digital or physical badges recognizing achievements,
+company swag or other physical rewards,
+additional paid time off hours, or
+public recognition.
+
+Rewards are a vital part of the standard compulsion loop that keeps participants completing tasks. Participants complete a task, receive a reward, and are invited to complete the same task again or the next step. Receiving the reward makes participants eager to continue and get more rewards. Keep in mind that each participant is likely to respond differently to rewards, so it is important to diversify the type of rewards available as well as ensure rewards are also available for participation rather than only winning.
+If planned or executed poorly, gamification may have negative consequences. For instance, if employees are rewarded for contributing content regardless of content quality, then someone could create junk in order to receive the reward. If employees are rewarded for contributing to a community of practice, then they could comment gibberish on all posts rather than start or drive conversations. In order to avoid risks, gamification needs to iteratively measure both value and outcomes, evaluate effectiveness, and adapt to an organization’s needs and goals.
+Gamification Use Cases
+Now that we have a better understanding of the techniques used in gamification, let’s look at a few use cases, how gamification could be applied, and the benefits of implementing gamification. The gamification techniques for each use case are presented as an example and should not be treated as perfect.
+Policy Training
+
+
+
+
+Use Case:
+An organization wants to train employees about key policies on an annual basis.
+
+
+Gamification:
+The organization produces a set of courses that feature memorable use case stories, quizzes, and games. Each course tracks a participant’s score based on quick time events, quiz results, and game success. Company swag is provided to those that score the highest.
+
+
+Benefits:
+Using interactions and scoring, the organization increases participant engagement in each course, improving participation and learning retention. The reward for high scores encourages participants to improve their understanding of the material.
+
+
+Business Outcome:
+Reduces time spent asking questions and waiting for answers about policies. This also frees up human resource employees for other work.
+
+
+
+Knowledge Base Creation
+
+
+
+
+Use Case:
+An organization wants to fill a knowledge base with documentation and lessons learned from employees. This is one of the most common knowledge management efforts.
+
+
+Gamification:
+Employees earn points when they produce content and when their content receives a favorable rating from colleagues. Points are normalized and considered as part of employee reviews.
+
+
+Benefits:
+Rewarding employees with points that can improve their performance reviews motivates them to produce high-quality content that their peers will appreciate.
+
+
+Business Outcome:
+Employees spend less time searching for materials, can reuse previously created content, and can benefit from their colleagues’ experiences.
+
+
+
+Online Course Library
+
+
+
+
+Use Case:
+To support individual development and learning, an organization wants to build an online course library for recommended employee skills.
+
+
+Gamification:
+Participants gain certificates and digital badges for completing online courses. Badges are displayed on the company’s internal website and certifications can be added to employee resumes. Employees who earn the most badges each quarter are given 4 hours of paid time off.
+
+
+Benefits:
+Employees are motivated to take courses and continue their life-long learning to earn extra paid time off. By rewarding employees for sharing relevant materials, employees stay engaged in their skill areas after taking courses.
+
+
+Business Outcome:
+Employees are generally more skilled in business-critical areas. The online library provides a great internal candidate pool for promotions, reducing the need to recruit and hire externally for more senior positions.
+
+
+
+Task Helper
+
+
+
+
+Use Case:
+An organization wants to help employees track both project and individual tasks. Some tasks are required policies and others are optional.
+
+
+Gamification:
+Employees gain experience points for completing tasks. Experience points allow participants to “level up” and unlock rewards at each level.
+
+
+Benefits:
+The experience, levels, and rewards encourage employees to not only complete required tasks but go above and beyond to complete optional tasks for additional rewards.
+
+
+Business Outcome:
+Employees are more invested in their work and company and, thus, more productive.
+
+
+
+Conclusion
+Gamification provides the structure and catalyst to keep employees engaged in workplace activities. From small efforts like quizzes and badges to larger learning and task management games and point-tracking efforts, a well-developed gamification plan can help meet organizational goals and improve business outcomes. For more information about how gamification can help your organization, or if you want to request our next “Breaking it down” topic, contact us!
+
+
+
+
+
+"
+3,https://enterprise-knowledge.com/data-catalog-evaluation-criteria/,"
+Data Catalogs have risen in adoption and popularity in the past several years, and it’s no coincidence as to why. The amount of data, and therefore metadata, is exploding at a rapid pace and will certainly not slow down anytime soon, pushing the need for a cloud solution that creates a source of truth for data and information. It’s difficult to manage and make sense of all of it. Moreover, people are not sure what the best use of all this data is for their businesses. There are so many data catalog vendors out there, all seemingly having the same message, that they are the right choice for you, but that isn’t the case. Choosing the right data catalog for your business depends on several criteria. Before looking at vendors and selection criteria, let’s narrow down what is important for your data catalog solution to have.
+
+Before delving into what criteria and vendor you want for your data catalog, thoroughly consider the Use Cases and Users of your business, because they are the main drivers of getting the most efficient use of your data catalog solution.
+Use Cases: Consider the root problem that led your business to decide they need a data catalog solution. Beyond the fact that you have siloed data sources that you want to bring together in one centralized location, what are the true needs behind this? Are you trying to enable discovery, governance, data quality, analytics and/or delivery of your data assets? While all data catalog vendors share the common goal of merging your siloed data sources, each vendor will have a tailored functionality that answers one or more of the previous questions.
+Users: Who will be accessing your data catalog? Your users should align with your use cases, and knowing who they are will help you focus on the most pertinent criteria for your data catalog. Do you need a platform for data scientists and engineers to build and monitor ETL processes? Are business users using the data catalog as a go-to discovery platform for insights and answers? Some example users of your data catalog might be:
+
+Casual Users: Conduct broad searches and perform data discovery.
+Data Stewards: Make governance decisions about data within their domain.
+Data Analysts: Analyze data sets to generate insights and trends.
+Data Architects/Engineers: Build data transformation pipelines (ETL).
+System Administrators: Monitor system performance, use and other metrics.
+Mission Enablers: Transform data and information into insights within analysis and reports to support objectives.
+
+
+In the previous section, I listed some potential use cases your organization may be focused on depending on the root cause of your need for a data catalog or identified users. Let’s dive deeper into the 6 different criteria that you should prioritize when evaluating your data catalog solution. 
+
+To maximize the value of your data, you need to understand what you have and how it relates to other data. Increased availability leads to less time catalog users spend looking for data, therefore reducing time to insight and analysis. Discovery allows for greater creativity and innovation of your data and metadata within your infrastructure for your data professionals making your business more efficient. For example, a client I am supporting to implement a data catalog solution needs their casual end users to be able to search for keywords and documents from separate databases and see all related results in one place to reduce time spent searching through multiple databases for the same information.
+
+Interoperability pertains to the data catalog’s ability to integrate with your siloed information platforms and aggregate them into one centralized location. Data catalog vendors do not serve every database, data warehouse or data lake on the market. Rather, they will often target one or a few particular business software suites. Integration compatibility across your current environment is necessary to maximize your user experience as well as just making the data catalog usable. In addition to considering system interoperability, evaluate the data interoperability of the catalog. I recommend using a data catalog that will store and relate your data together using graphs and Semantic Web standards. Graphs and the Semantic Web standards help transform unstructured and semi-structured data at scale into meaningful and human readable relationships. Before choosing your catalog, assess the ease of configuration and linking your data catalog to your current environment. An example for checking for interoperability of your data catalog might be that if your current environment spans across multiple data storage providers such as AWS, Google or Microsoft, it’s important that your data catalog can aggregate information from all sources that are mission critical.
+
+Businesses wrap their data in complicated security processes and rules, typically enforced by a specialized data governance team. These security processes and rules are enforced with a top-down approach and slow down your work. The modern and rising data framework highlights the need for governance to be a bottom-up approach to reduce bottlenecks of discovery and analysis. Choose the data catalog that provides governance features that prioritize catalog setup, data quality, data access and end-to-end data lineage. A few key governance features to consider are data ownership, curation, workflow management, and policy/usability controls. These governance features streamline and consolidate efforts to provide proper data access and management for users with an easy to use interface that spans across all data within the catalog. The right data catalog solution for your business will contain and specialize in the governance features needed by your user personas, such as system administrators to control data intake for users based on role, responsibility and sensitivity. For more information regarding metadata governance, check out my colleague’s post on the Best Practices for Successful Metadata Governance.
+
+Analytics and reporting pertains to the ability to develop, automate and deliver analytical summaries and reports about your data. Internally or through integration, your data catalog needs to expand beyond being a centralized repository for your assets and provide analytical insights about how your data is being consumed and what business outcomes it is helping to drive. Some insights that are of interest to many organizations are which datasets are most popular, which users are consuming particular datasets, and the overall quality of the data contained within your data catalog. The most sought after insight I see with client implementations surrounds data usage by user types (analyzing which users consume particular data sets to get a better understanding of the data that has the most business impact).
+
+Metadata often outlasts the lifecycle of the data itself after it is deprecated, replaced, or deleted. Some of the key components of metadata management are availability, quality, lineage, and licensing.
+
+Availability: Metadata needs to be stored where it can be accessed, indexed, and discovered in a timely manner.
+Quality: Metadata needs to have consistency in its quality so that the consumers of the data know it can be trusted.
+Historical Lineage: Metadata needs to be kept over time to be able to track data curation and deprecation.
+Proper Licensing: Metadata needs to contain proper licensing information to ensure proper use by the appropriate users.
+
+Depending on your use cases and personas, some of the key components above will take priority over others. Ensure that your data catalog contains, collects and analyzes the metadata your business needs. During the data catalog implementation, one feature I notice that clients usually need from their data catalog is data lineage. If historical lineage of your data is a dealbreaker, this will help narrow down your data catalog search effort.
+
+Enterprise scale is the capability for widespread use across multiple organizations, domains, and projects. Your data catalog will need to scale vertically with the amount of data that is ingested, as well as horizontally to continually serve new business ventures within your roadmap. Evaluate how you foresee your data catalog to grow in the coming years. Vertical scaling will reflect a need to continually add more data to the catalog, whereas horizontal scaling will reflect a need to spread the reach of your data catalog to more users.
+
+Conclusion
+Now that you have an idea of the criteria that are most important when selecting your data catalog vendor, it’s time to explore further into your options. Take advantage of demos offered by data catalog vendors to get a feel for which catalogs have the right fit for your use cases and users. Carefully consider the pros and cons of each vendor’s platform and how their platform can meet the goals of your business catalog. If a data catalog is the right fit for your business and you’re still not sure as to which is the right for you, reach out to us at Enterprise Knowledge and we can help you evaluate your use cases and recommend the right data catalog solution for you!
+ 
+
+
+
+
+"
+4,https://enterprise-knowledge.com/elevating-your-point-solution-to-an-enterprise-knowledge-graph/,"
+I am fortunate to be able to speak with many vendors in the Graph space, as well as company executives and leaders in IT and KM departments around the world. So many of these people are excited about the power of knowledge graphs and the graph databases that power them. They want to know how to turn their point solution into an enterprise-wide knowledge graph powering AI solutions and solving critical problems for their clients or their companies. I have answered this question enough times that I thought I would share it in a blog post for others to learn.
+
+Knowledge graphs are new and exciting tools. They provide a different way of managing information and can be used to solve a wide range of problems. Early adopters of this technology typically start with a small, targeted solution to “try it out.” This is a smart way to learn about any new technology, but all too often the project stops at a point solution or becomes pigeonholed for solving one problem when it can be used to solve so many more. The organizations that can grow and expand their graph solution have three things in common:
+
+A backlog of use cases,
+An enterprise ontology, and
+Marketing and change management.
+
+Knowledge graphs can solve many different types of problems. They can be recommendation engines, search enhancers, AI engines, data fabrics, or knowledge portals. That first solution that an organization picks only does one of these things, and it may also be targeted to just one department or one problem. This is a great way to start, but it can also lead to a stovepipe solution that misses some of the real power of graphs. 
+When we start knowledge graph projects with new clients, we always run a workshop with business users from across the organization. During this workshop, we share examples of what can be done with knowledge graphs and help them identify a backlog of use cases that their new knowledge graph can solve. This approach creates excitement for the new technology and gives the project team and the business a vision for how to add to what was built as part of the first solution. Once the first solution is effectively launched, the organization has a roadmap for what is next. If you have already launched your solution and do not have a backlog of use cases, that is okay. You can host a graph workshop at any time to create a list of the next projects. The most important thing is to get that backlog in place and begin to share it with your leadership team so that they can budget for the next project.
+The structure of a graph is defined by an ontology. Think of an ontology as a model describing the information assets of the business and how they fit together. Graph databases are easy to change, so organizations can get started with simple knowledge graphs that solve targeted problems without an ontologist. The problem is, the solution will be designed to solve a specific problem rather than being aligned with the business as a whole. A good ontologist will design a model that both solves the initial problem being addressed and aligns with the larger business model of the organization. For example, a graph-enhanced search at a manufacturing company may have products, customers, factories, parts, employees, and designs. The search could be augmented with a simple knowledge graph that describes parts. An ontologist would use this opportunity to model the relationships of all of the organization’s entities up front. This more inclusive approach would allow for a wider range of search results and could serve as the baseline for a number of other projects. This same graph could fuel a recommendation service or chatbot for their customers. It could also be used as the map for their data elements to create a data fabric that simplifies the way people access data within the organization. One graph, properly designed, can easily expand to become the enterprise backbone for a number of different enterprise-centric applications.
+Building a backlog of use cases and creating a proper ontology helps ensure that there is a framework and plan to grow. The final challenge in turning a point solution into an enterprise knowledge graph has to do with marketing the solution. Knowledge graphs and graph databases are still new, and the number of things they can do is very broad (see Using Knowledge Graph Data Models to Solve Real Business Problems). As a result, executives often do not know what to do with knowledge graphs. It is important to set success criteria for your point solution and regularly communicate the value it adds to the business. This brings attention to the solution and opens the door for discussions about expanding the knowledge graph. Once you have the executive’s attention, educate them as to what knowledge graphs can do through the industry literature and the backlog of use cases that you have already gathered. This will allow executives to see how they can get even greater value from their investment and drive more funding for your knowledge graph.
+Knowledge graphs are powerful information management tools that are only now becoming fully understood. The leading graph database vendors offer free downloads of their software so that organizations can start to understand the true power of these tools. Unfortunately, too often these downloads are used only for small projects that disappear over time. The simple steps I have described above can pave the way to turn your initial project into an enterprise platform powering numerous, critical Artificial Intelligence solutions.
+Learn more about how we enable this for our clients by contacting us at [email protected].
+
+
+
+
+"
+5,https://enterprise-knowledge.com/expert-analysis-keyword-search-vs-semantic-search-part-one/,"
+For a long time, keyword search was the predominant method to provide search to an enterprise application. In fact, it is still a tried-and-true means to help your users find what they are looking for within your content. However, semantic search has recently gained wider acceptance as a plausible alternative to keyword search. In this Expert Analysis blog, two of our senior consultants, Fernando Aguilar and Chris Marino, explain these different methods and provide guidance on when to choose one over the other.
+What’s the difference between a keyword search system and a semantic search system?
+Keyword Search (Chris Marino)
+The heart of a keyword search system is a data structure called an “inverted index.” You can think of it as a two-column table. Each row in the table corresponds to a term found in your corpus of documents. One column contains the term, and the other column contains a list of all your documents (by ID) where that particular term appears. The process of filling up this table with the content in your documents is called “indexing.”
+When a user performs a search in a keyword system, the search engine takes the words from their query and looks for an exact match in the inverted index. Then, it returns the list of matching documents. However, instead of returning them in random order, it applies a ranking (or scoring) algorithm to ensure that the more relevant documents appear first. This ranking algorithm is normally based on a couple of factors: “term frequency” (the number of times the terms appear in the document) and the rarity of the word across your entire corpus of documents. For example, if you search for “vacation policy” in your company’s documents, “vacation” most likely appears less frequently than “policy,” so those documents with “vacation” should have a higher score.
+Semantic Search (Fernando Aguilar)
+Semantic search, also known as vector search, is a type of search method that goes beyond traditional keyword-based search and attempts to understand the intent and meaning behind the user’s query. It uses natural language processing (NLP) and machine learning algorithms to analyze the context and relationships between words and concepts in a query, and to identify the most relevant results based on their semantic meaning. This approach is often used in applications such as chatbots, virtual assistants, and enterprise search to provide more accurate and personalized results to users.
+In contrast to keyword search, which relies on matching specific keywords or phrases in documents or databases, semantic search is able to understand the underlying meaning of the query and identify related concepts, synonyms, and even ambiguous terms. This enables it to provide more comprehensive and relevant results, especially in cases where the user’s intent may not be well-defined or where multiple meanings are possible.
+What are the Pros and Cons of using Keyword Search vs Semantic Search?
+Keyword Search (Chris Marino)
+Keyword search is a workhorse application that has been around for decades. This fact makes it a natural choice for many search solutions. It tends to be easier to implement because it’s a more familiar application. It’s been battle-tested, and there are a wealth of developers out there who know how to integrate it. As with many legacy systems, there are many thought pieces, ample documentation, pre-built components, and sample applications available via a Google search (or just ask ChatGPT).
+Another benefit of keyword search is its interpretability – the ability for a user to understand why a certain result matched the query. You can easily see the terms you have searched for in your results. Although there is an algorithm performing the scoring ranking, a search developer can quickly discern why a certain result appeared before another and make tweaks to impact the algorithm. Conversely, the logic behind semantic search results is more of a “black box” variety. It’s not always readily apparent why a particular result was returned. This has a significant impact on overall user experience; when users understand why they’re getting a search result, they trust the system and feel more positively towards it.
+The biggest drawback of keyword search is that it lacks the ability to determine the proper context of your searches. Instead of seeing your search terms as concepts or things, it sees them simply as strings of characters. Take for instance the following query:
+
+“What do eagles eat?”
+
+Keyword search processes and searches for each term individually. It has no concept that you are asking a question or that “what” and “do” are unimportant. Further, there are many different concepts known as “Eagles”: the bird-of-prey, the 70’s rock group, the Philadelphia football team, and the Boston College sports teams. While a person can surmise that you’re interested in the bird, keyword search is simply looking for any mention of the letter string: “e-a-g-l-e.”
+Semantic Search (Fernando Aguilar)
+Semantic search has gained popularity in recent years due to its ability to understand the intent and meaning behind the user’s query, resulting in more relevant and personalized results. However, not all use cases benefit from it. Understanding the advantages, limitations, and the trade-offs between semantic and keyword search can help you choose the best approach for your organization’s specific needs.
+Pros:
+
+Semantic search makes search results more comprehensive and inclusive by identifying and matching term synonyms and variations.
+Vector search provides more relevant results by considering a query’s context, allowing it to differentiate between “Paris,” the location, and “Paris,” a person’s name. It also understands the relationship between its terms, such as part-of-speech (POS) tagging, and identifying different terms as verbs, adjectives, adverbs, or nouns.
+It enables the user to express their intent more accurately by allowing them to make queries using natural language phrases, synonyms, or variations of terms and misspellings, leading to a more user-friendly search experience.
+
+Cons:
+
+Calculating similarity metrics to retrieve search results is computationally intensive. Optimization algorithms are generally needed to speed up the process. However, faster search times come at the cost of decreased accuracy.
+The search results can be less relevant if users are accustomed to searching using one or two-term queries instead of using search phrases. Therefore, it is essential to analyze current search patterns before implementing vector search.
+Pre-trained language models need to be fine-tuned to learn and understand the relationships between words in the context of your business domain. Fine-tuning a language model will improve the accuracy of the search results, but training is usually time-consuming and resource intensive.
+
+How do the use cases for each type of search differ?
+Keyword Search (Chris Marino)
+In general, any search use case is a good case for keyword search. It has been around for many years and, when configured correctly, can provide solid results at a reasonable cost. However, there are a few use cases that are particularly well-suited for keyword search: academic and legal search, primarily by librarians. It’s been my experience that these types of searchers have very exact, complex queries. Characteristics of these queries might include:
+
+Exact phrase matching
+Multi-field searches (“show me documents with X in Field 1, Y in Field 2, Z in Field 3 …”)
+Heavy boolean searches (“show me this OR these AND those but NOT that”)
+
+In these instances, the user needs to ensure and validate that each result matches their exact query. They are not looking for suggestions. Precision (“show me exactly what I asked for”) is more important than recall (“show me things I may be interested in but didn’t specifically request”).
+Semantic Search (Fernando Aguilar)
+The primary use case differentiator will be determined by how search users format their queries. Semantic search will prove best for users that submit search phrases where context, word relationships, and term variations are present versus searching for a couple of exact terms. Hence, beyond a search query, chatbots, virtual assistants, or customer service applications are great examples where users may be conversationally asking questions.
+What are the cool features found in keyword search vs semantic search?
+Keyword Search (Chris Marino)
+There are a number of features that keyword search provides to improve a searcher’s overall experience. Some of the main ones include facets, phrase-searching, and snippets.
+Facets
+Facets are filters that let you refine your search results to only view items that are of particular interest to you based on a common characteristic. Think of the left-hand side of an Amazon search results page. They are based on the metadata associated with your documents, so the richer your metadata, the better options you can provide to your users. In an enterprise setting, common facets are geography-based ones (State, Country), enterprise-based ones (Department, Business Unit), and time-based ones (Published Date, Modified Date – whose values can even contain relative values like “Today”, “”, “Last 7 days”, “This Year”).
+Phrase searching
+Phrase searching allows you to find exact phrases in your documents, normally by including the phrase within quotation marks (“”). A search for “tuition reimbursement” will only return documents that match this exact phrase, and not documents that only mention “tuition” or “reimbursement” independent from one another.
+Snippets
+Snippets are small sections from your document which include your search terms and are displayed on the search results page. They show the search terms in the context of the overall document, e.g., the main sentence that contains the terms. This helps by providing a visual cue to help the searcher understand why this particular document appears. Normally, the search results page displays the title of the document, but often your search term does not appear in the title. By displaying the snippet, with the search term highlighted, the user feels validated that the search has returned relevant information. We refer to this as “information scent.”
+Semantic Search (Fernando Aguilar)
+Currently, semantic search is one of the most promising techniques for improving search and organizing information. While semantic methods have already proven effective in a variety of fields, such as computer vision and natural language processing, there are several cool features that make semantic search an exciting area to watch for enterprise search. Some examples include:
+
+Concurrent Multilingual Capabilities: Vector search can leverage multilingual language models to retrieve content regardless of the language of the content or the query itself.
+Text-to-Multimodal Search: Natural language queries can retrieve un-tagged video, image, or audio content, depending on the model used to create the vectors.
+Content Similarity Search: Semantic search can also take content as query input, so applications can retrieve similar content to the one the user is currently viewing.
+
+Conclusion
+If perfecting the relevancy of your search results isn’t directly tied to your organization’s revenue or mission achievement, keyword search provides an efficient, proven, and effective method for implementing search in your application. On the other hand, semantic search will be a better solution when the clients are using natural language to describe what they are looking for, when the content to be retrieved is not all text-based, or when an API (not a person) is consuming your search.
+Check out some of our other thought leadership pieces on search:
+5 Steps to Enhance Search with a Knowledge Graph
+Dashboards – The Changing Face of Search
+And if you are embarking on your own search project and need proven expertise to help guide you to success, contact us!
+
+
+
+
+"
+6,https://enterprise-knowledge.com/how-does-km-impact-different-business-groups/,"
+One of the most engaging aspects of my work with knowledge management (KM) is that KM solutions are not one-size-fits-all, yet through our nearly 10 years as the world’s largest dedicated Knowledge Management Consulting firm, we’ve been able to identify trends and patterns for KM success throughout a variety of organizations. Every organization is unique, therefore, each of our clients will only achieve optimal KM success through the development of customized solutions that exactly fit the organization’s content and technological needs. Alongside these customized solutions, we bring understanding and expertise of how an organization’s employees, processes, and company culture typically should be structured and perceived in order to maximize the value and outcomes of any KM transformation.
+An important precursor to developing any solution is our KM element of People, which focuses on the individual team members and the flow of knowledge within an organization. We define this element as the overarching characteristics and behaviors of team members as they pertain to knowledge management, which we investigate through human-centric discovery work like focus groups, interviews, and workshops. Oftentimes, the needs of certain users or specific KM roles are identified in the early stages of our discovery work with an organization, prompting us to determine where KM can have the greatest impact, help the organization understand why certain groups may be prioritized in the KM initiative, and define a roadmap that frontloads that which is most impactful to prove the value of KM. 
+While KM is crucial to each part of an organization, there are cases when KM efforts should be focused on a specific department, role, or persona. EK recognizes that KM roles and responsibilities differ based on an employee’s business function, tenure, and seniority, which in turn affects how KM impacts various business groups (cohorts of individuals at the same seniority and tenure). In this blog, I will walk you through an essential element of communicating the value and focus of a KM initiative: how KM impacts business groups differently. 
+
+To clarify some of the terms I’ll be using, seniority is about rank in an organization. Tenure, on the other hand, refers to someone’s length of employment. An employee can be high-ranking, but if he or she is newer to the company, they may not have the operational knowledge or experience of someone less senior. Familiarity with and use of an organization’s current KM processes will likely come with tenure, not seniority. I’ll now differentiate between Knowledge Consumers and Knowledge Creators in an organization, using a bell curve graphic to display how KM’s impact is not linear, but distributed based on seniority and tenure.
+
+Knowledge Consumers
+As seen on the bottom left and right sides of the bell curve, knowledge consumers are often entry-level employees or executives/leadership figures. Entry-level employees (low tenure and low seniority) often do not possess the knowledge or experience to create and share information, meaning that KM efforts and processes for them will focus on consuming knowledge, requiring an increased ability to find the knowledge and experts they need to do their jobs. On the other side of the spectrum, organizational executives and leadership (high tenure and high seniority) don’t often focus on everyday knowledge creation and sharing, though they may direct it or encourage it. These individuals rely on their employees to get them the information they need and produce new knowledge based on their guidance, vision, and overall strategic direction. KM metrics and Return on Investment (ROI) are primarily important to this group, as they depend on the overall business outcomes and economic value of KM initiatives, rather than the smaller and more detailed phases of a KM project.
+Knowledge Creators  
+At the top of the bell curve lies knowledge creators, those “middlemen” and senior-level employees who have been with the organization for a good amount of time and/or possess subject matter expertise. Their everyday work generates the majority of knowledge and information within an organization, as they have the experience and wherewithal to recognize gaps in knowledge and fill them. Those that are well-tenured within this group also know how to generate valuable information and are familiar with the processes and systems that best support the flow of knowledge, whether that be capturing and transferring tacit knowledge or sharing and distributing explicit knowledge. Knowledge consumers depend on this group to supply them with expert information and guidance. 
+It should be obvious at this point how and why KM impacts different business groups. KM matters greatly to each of these groups, but during countless KM strategy and roadmapping engagements, we have found that knowledge creators both contribute to and benefit from improved KM processes the most. It is this type of employee that usually provides us with the best picture of an organization’s highest needs, day-to-day operations, and how things should be done because of their expertise and experience in creating and managing effective content, technologies, and workflows. Oftentimes, the people in the middle of the organization (the group at the top of the bell curve) are the most prolific creators of knowledge, though of course a successful KM program will empower all users to become knowledge creators. There are cases where knowledge consumers may be the focus and priority of a KM engagement, such as efforts related to training and onboarding, but oftentimes, those processes and best practices will still be directed and facilitated by knowledge creators.
+While we do not “play favorites” with certain business groups in a KM effort, this knowledge is important when identifying with whom and how to validate KM solutions based on how said solutions will impact their everyday work. Keep the KM impact bell curve in mind when considering impacts and buy-in for your next KM initiative.
+If you are interested in KM’s impact on your organization, contact us to learn more!
+
+
+
+
+"
+7,https://enterprise-knowledge.com/is-chatgpt-ready-for-the-enterprise/,"
+Recently, we were visiting a client showing the latest version of our application when a participant asked, “Why aren’t we using ChatGPT?” It was a good and logical question with the attention that ChatGPT and other AI-based solutions are warranting these days. While these tools, built using complex machine-learning components like large-language models (LLMs) and neural networks, offer much promise, their implementation in today’s enterprise should be weighed carefully.
+Rightfully so, ChatGPT and similar AI-powered solutions have created quite a buzz in the industry. It really is impressive what they currently do, and they offer much future promise. Since those of us in the technology world have been inundated with questions and remarkable tales about ChatGPT and similar tools, I took it upon myself to do a little experiment.
+The Experiment
+As a die-hard Cubs fan, I hopped over to the ChatGPT site and asked: “Which Cubs players have won MVPs?”
+
+It provided a list of names that, on the surface, appeared correct. However, a few minutes spent on Google confirmed that one answer was factually wrong, as were some of the supporting facts about correctly identified players.
+Impressively, a subsequent question: “Are there any others?” provided another seemingly accurate list of results. ChatGPT remembered the context of my first query and answered appropriately. Despite this, further investigation confirmed that, once again, not all of the information returned was correct.
+
+As shown from this tiny sample, any organization needs to tread carefully when considering implementing ChatGPT and other AI-powered solutions in their current form. It’s quite possible that they lead to more problems than they solve.
+Here is a list of the top issues to consider before embarking on an AI-based search solution like ChatGPT.
+Accuracy Issues
+For all their potential, their current implementations are haunted by one fact – they can return blatantly false information. As shown above, a sizable portion of the answers were wrong, especially during the follow-up question. Unfortunately, this is a common experience.
+Further, there is no reference information returned with the result. This produces more questions than it does answers. What is the “source of truth” for the query response? What authoritative document states this information that can be referenced and verified?
+Granted, when you perform a search on a traditional keyword search engine, you can sometimes get nefarious, outdated, or incorrect results. Still, these search engines are not selling the promise that they’re returning the single, definitive answer to your question. You are presented with a list to sift through and make your final decision on what is relevant to your particular needs.
+While it’s entertaining to ask ChatGPT –  “What is Hamlet’s famous spoken line and repeat it back to me in a pirate’s voice” – would you really want to base an important business decision on feedback that is often inaccurate and unverifiable? All it takes is being burnt by one wrong answer for your users to lose faith in the system.
+Complexity and Expense
+I like to joke with my clients that we can build any solution quickly, cheaply, and impressively but that they have to pick two of the three. With an AI-based solution like ChatGPT, you may only get to pick one. Implementing an AI solution is inherently complex and expensive. There is a lot of time and complexity involved, and there’s no “point and click, out of the box” option. Relevant tasks to prepare AI for the enterprise include:
+
+Designing and planning for both hardware and software,
+Collecting relevant and accurate data to feed into the system,
+Building relevant models and training them about your domain-specific knowledge,
+Developing a user interface,
+Testing and analyzing your results, then iterating, perhaps multiple times, to make improvements; and,
+Operationalizing the system into your existing infrastructure, including data integration, support, and monitoring.
+
+Additionally, projects like these require developers with niche, advanced skills. It’s difficult enough finding experienced developers to implement basic keyword search solutions, let alone advanced AI logic. Those that can successfully build these AI-based solutions are few and far between, and in software development, the time of highly-skilled developers comes at a significant cost.
+Lack of Explainability
+AI-based solutions like ChatGPT tend to be “black box” solutions. Meaning that, although powerful, the logic they use to return results is virtually impossible to explain to a user if it’s even available.
+With traditional search engines, the scoring algorithms to rank results are easier to understand. A developer can compare the scores between documents in the result set and quickly understand why one appears higher than the other. Most importantly, this process can be explained to the end user, and adjustments to the scoring can be made easily through search relevancy tuning.
+Searching in the enterprise is a different paradigm than the impersonal world of Google, Amazon, and e-commerce search applications. Your users are employees, and you must ensure they are empowered to have productive search experiences. If users can’t intuitively understand why a particular result is showing up for their query, they’re more likely to question the tool’s accuracy. This is especially true for certain users, like librarians, legal assistants, or researchers, who have very specific search requirements and need to understand the logic of the search engine before they trust it.
+User Experience and Readiness
+The user experience for a tool like ChatGPT will be markedly different. For starters, many of the rich features to which users have grown accustomed – faceting, hit highlighting, phrase-searching – are currently unavailable in ChatGPT.
+Furthermore, consider if your users are actually ready to leverage an AI-based solution. For example, how do they normally search? Are they entering 1 or 2 keywords, or are they advanced enough to ask natural language questions? If they’re accustomed to using keywords, a single-term query won’t produce markedly better results in an AI-based solution than a traditional search engine.
+Conclusion
+Although the current version of ChatGPT may not deliver immediate value to your organization, it still has significant potential. We’re focusing our current research on a couple of areas in particular. First, its capabilities around categorization and auto-summarization are very promising and could easily be leveraged in tandem with the more ubiquitous keyword search engines. Categorization lets you tag your content with key terms and provides rich metadata that powers functionality like facets. Meanwhile, auto-summarization creates short abstracts of your lengthy documents. These abstracts, properly indexed into your search engine, can serve as the basis for providing more accurate search results.
+It’s perfectly acceptable to be equally impressed by the promise of tools like ChatGPT yet skeptical of how well their current offerings will meet your real-world search needs. If your organization is grappling with this decision, contact us, and we can help you navigate through this exciting journey.
+
+
+
+
+"
+8,https://enterprise-knowledge.com/knowledge-capture-and-transfer-series-part-3-capturing-explicit-knowledge/,"
+Even though explicit knowledge refers to knowledge that has already been captured and documented somewhere in the organization, this doesn’t mean that all organizations capture their explicit knowledge in locations or formats that are easy to use. Indeed, a lot of the work that we do is helping organizations make sense of the large amounts of explicit knowledge that they possess.
+It is helpful to revisit the definition from the first part of this series for explicit knowledge before continuing the conversation:
+
+Knowledge that has been made visible by recording it, or embedding it, into a variety of formats: written documents, multimedia, and the design of processes, procedures, or tools. Explicit knowledge can be an overarching term to refer to ‘content’ and ‘information.’
+
+
+ 
+Why is Capturing Explicit Knowledge Challenging?
+Among the many challenges that organizations face in properly capturing their explicit knowledge are:
+
+Current repositories lack a clear purpose statement, and therefore staff use whatever they find most convenient for themselves or their team, making collaboration and coordination across teams harder.
+Staff rely on email inboxes as personal repositories, making the correct and latest versions of documents difficult to track down.
+Knowledge is not structured or tagged in a consistent, predictable way, so people spend undue effort making sense of what they find.
+Knowledge is distributed across many systems, and there is neither a centralized point of access to it nor a complete view of all the relevant content that a user may need.
+
+A Holistic Approach to Capturing and Transferring Explicit Knowledge
+At EK, we leverage our People-Process-Content-Culture-Technology framework to approach challenges from a holistic perspective. Below, I share best practices for capturing and transferring explicit knowledge based on this framework.
+People
+Individuals need training and guidance for storing their knowledge in the correct place and in the appropriate format. As knowledge managers, it is up to us to help teams understand the value of consistently managing their knowledge and helping them adopt best practices. A common issue we come across is that individuals will use their email inboxes as their personal knowledge base, locking away and burying helpful conversations and documents. This is usually because they don’t know any better. Once people are offered guidance and compelling reasons to move their documents to a document management system and their conversations to a platform like Slack or Teams, then this knowledge becomes available to more people within their organization.
+Process
+Knowledge capture should be embedded as much as possible in the everyday business processes that teams engage in. When helping our clients articulate their KM strategy, their most common request is “don’t make me do extra work.” Knowledge management should not be something extra that employees must do. If we are able to capture knowledge as part of people’s natural ways of working, then we will engender greater adoption. For instance, leveraging meaningful metadata default values and auto-tagging features in taxonomy management systems will minimize the need for users to manually assign metadata to their documents.
+Content
+Much of the content in an organization is unstructured, which means that it lacks the metadata to describe and categorize it, making it more difficult to identify and manage. When knowledge is captured, it should be structured and categorized in a way that will make it easier to find and use. Developing a taxonomy to consistently tag explicit knowledge goes a long way in making knowledge more usable and findable, as well as laying the foundation for more advanced knowledge management capabilities in the future. Creating navigational structures and information architecture that is intuitive will also help people within your organization browse and sort through volumes of documents more quickly.
+Culture
+As mentioned above, people often develop bad habits in capturing and managing their knowledge. As part of organizational culture, leadership should not only establish incentives for people to capture their knowledge correctly, they should also set expectations and accountabilities for doing so. Furthermore, there should also be indicators to assess the extent to which teams and individuals are adhering to best practices, enabling the organization to adapt approaches if they aren’t.
+Technology
+Technology again becomes a key enabler for knowledge capture. Knowledge repositories should be searchable, support taxonomies, and offer features that would make it easy for individuals to ‘do the right thing.’ Organizations will want to consider introducing technologies that support KM into their technology stack if they don’t already have them, such as content and document management systems, taxonomy management, and in more advanced cases, knowledge graphs to provide that rich contextual view of a piece of knowledge.
+Closing
+Organizations create volumes of explicit knowledge as part of their daily activities. Capturing it, storing it, and then sharing it in a way that makes work easy for your teams can be very challenging. However, we are experts in providing organizations with tailored, holistic approaches to managing their explicit knowledge. If your organization needs help wrangling their knowledge, please contact us.
+
+
+
+
+"
+9,https://enterprise-knowledge.com/knowledge-management-trends-in-2023/,"
+
+As CEO of the world’s largest Knowledge Management consulting company, I am fortunate to possess a unique view of KM trends. For each of the last several years, I’ve written an annual list of these KM trends, and looking back, I’m pleased to have (mostly) been on point, having successfully identified such KM trends as Knowledge Graphs, the confluence of KM and Learning, the increasing focus on KM Return on Investment (ROI), and the use of KM as the foundation for Artificial Intelligence.
+Every year in order to develop this list, I engage EK’s KM consultants and thought leaders to help me identify what trends merit inclusion. We consider factors including themes in requests for proposals and requests for information; the strategic plans and budgets of global organizations; priorities for KM transformations; internal organizational surveys; interviews with KM practitioners, organizational executives, and business stakeholders; themes from the world’s KM conferences and publications, interviews with fellow KM consultancies and KM software leaders; and the product roadmaps for leading KM technology vendors.
+The following are the seven KM trends for 2023:
+ 
+KM at a Crossroads – The last several years have seen a great deal of attention and funding for KM initiatives. Both the pandemic and great resignation caused executives to realize their historical lack of focus on KM resulted in knowledge loss, unhappy employees, and an inability to efficiently upskill new hires. At the same time, knowledge graphs matured to the point where KM systems could offer further customization and ability to integrate multiple types of content from disparate systems more easily.
+In 2023, much of the world is bracing for a recession, with the United States and Europe likely to experience a major hit. Large organizations have been preparing for this already, with many proactively reducing their workforce and cutting costs. Historically, organizations have drastically reduced KM programs, or even cut them out entirely, during times of economic stress. In 2008-2009, for instance, organizational KM spending was gutted, and many in-house KM practitioners were laid off.
+I anticipate many organizations will do the same this year, but far fewer than in past recessions. The organizations that learned their lessons from the pandemic and staffing shortages will continue to invest in KM, recognizing the critical business value offered. KM programs are much more visible and business critical than they were a decade ago, thanks to maturation in KM practices and technologies. Knowledge Management programs can deliver business resiliency and competitive advantage, ensure that knowledge is retained in the organization, and enable employee and customer satisfaction and resulting retention. The executives that recognize this will continue their investments in KM, perhaps scaled down or more tightly managed, but continued nonetheless. 
+Less mature organizations, on the other hand, will repeat the same mistakes of the past, cutting KM, and with it, walking knowledge out the door, stifling innovation, and compounding retention issues, all for minimal and short-term savings. This KM trend, put simply, will be the divergence between organizations that compound their existing issues by cutting KM programs and those that keep calm and KM on.
+ 
+Focus on Business Value and ROI – Keying off the previous trend, and revisiting a trend I’ve identified in past years, 2023 will bring a major need to quantify the value of KM. In growth years when economies are booming, we’ve typically seen a greater willingness for organizations to invest in KM efforts. This year, there will be a strong demand to prove the business value of KM. 
+For KM practitioners, this means being able to measure business outcomes instead of just KM outcomes. Examples of KM outcomes are improved findability and discoverability of content, increased use and reuse of information, decreased knowledge loss, and improved organizational awareness and alignment. All of these things are valuable, as no CEO would say they don’t want them for their organization, and yet none of them are easily quantifiable and measurable in terms of ROI. Business outcomes, on the other hand, can be tied to meaningful and measurable savings, decreased costs, or improved revenues. Business outcomes resulting from KM transformations can include decreased storage and software license costs, improved employee and customer retention, faster and more effective employee upskilling, and improved sales and delivery. The KM programs that communicate value in terms of these and other business outcomes will be those that thrive this year.
+This KM trend is a good one for the industry, as it will require that we put the benefits to the organization and end users at the center of any decision.
+ 
+Knowledge Portals – Much to the surprise, if not disbelief, of many last year, I predicted that portals would make a comeback from their heyday in the early 2000’s. The past year validated this prediction, with more organizations making multi-year and multi-million dollar investments in KM transformations with a Knowledge Portal (or KM Portal) at the center of the effort. As I wrote about recently, both the critical awareness of KM practices as well as the technology necessary to make a Knowledge Portal work have come a long way in the last twenty years. Steered further by the aforementioned drivers of remote work and the great resignation, organizations are now implementing Knowledge Portals at the enterprise level. 
+The use cases for Knowledge Portals vary, with some treating the system as an intranet or knowledge base, others using it as a hub for learning or sales, and still others using it more for tacit knowledge capture and collaboration. Regardless of the use cases, what makes these Knowledge Portals really work is the usage of Knowledge Graphs. Knowledge Graphs can link information assets from multiple applications and display them on a single screen without complicated and inflexible interface development. CIOs now have a way to do context-driven integration, and business units can now see all of the key information about their most critical assets in a single location. What this means is that Knowledge Portals can now solve the problem of application information silos, enabling an organization to collectively understand everything its people need to know about its most important knowledge assets.
+ 
+Context-Driven KM – We’ve all heard the phrase, “Content is King,” but in today’s KM systems, Context is the new reigning monarch. The new trend in advanced knowledge systems is for them to be built not just around information architecture and content quality, but around knowledge graphs that provide a knowledge map of the organization. A business model and knowledge map expressed as an ontology delivers a flexible, expandable means of relating all of an organization’s knowledge assets, in context, and revealing them to users in a highly intuitive, customized manner. Put simply, this means that any given user can find what they’re looking for and discover that which they didn’t even know existed in ways that feel natural. Our own minds work in the same way as this technology, relating different memories, experiences, and thoughts. A system that can deliver on this same approach means an organization can finally harness the full breadth of information they possess across all of their locations, systems, and people for the purposes of collaboration, learning, efficiency, and discovery. Essentially, it’s what everyone has always wanted out of their information systems, and now it’s a reality.
+ 
+Data Firmly in KM – Historically, most organizations have drawn a hard line between unstructured and structured information, managing them under different groups, in different systems, with different rules and governance structures. As the thinking around KM continues to expand, and KM systems continue to mature, this dichotomy will increasingly be a thing of the past. The most mature organizations today are looking at any piece of information, structured or unstructured, physical or digital, as a knowledge asset that can be connected and contextualized like any other. This includes people and their expertise, products, places, and projects. The broadening spectrum of KM is being driven by knowledge graphs and their expanding use cases, but it also means that topics like data governance, metadata hubs, data fabric, data mesh, data science, and artificial intelligence are entering the KM conversation. In short, the days of arguing that an organization’s data is outside the realm of a KM transformation are over.
+ 
+Push Over Pull – When considering KM systems and technology, the vast majority of the discussion has centered around findability and discoverability. We’ve often talked about KM systems making it easier for the right people to find the information they need to do their jobs. As KM technologies mature, the way we think about connecting people and the knowledge they need is shifting. Rather than just asking, “How can we enable people to find the right information?”, we can also think more seriously about how we proactively deliver the right information to those people. This concept is not new, but the ability to deliver on it is increasingly real and powerful.
+When we combine an understanding of all of our content in context, with an understanding of our people and analytics to inform us how people are interacting with that content and what content is new or changing, we’re able to begin predictively delivering content to the right people. Sometimes, this is relatively basic, providing the classic “users who looked at this product also looked at…” functionality by matching metadata and/or user types, but increasingly it can leverage graphs and analytics to recognize when a piece of content has changed or a new piece of content of a particular type or topic has been created, triggering a push to the people the system predicts could use that information or may wish to be aware of it. Consider a user who last year leveraged twelve pieces of content to research a report they authored and published. An intelligent system can recognize the author should be notified if one of the twelve pieces of source content has changed, potentially suggesting to the content author they should revisit their report and update it.
+Overall, the trend we’re seeing here is about Intelligent Delivery of content and leveraging AI, Machine Learning, and Advanced Content Analytics in order to deliver the right content to individuals based on what we know and can infer about them. We’re seeing this much more as a prioritized goal within organizations but also as a feature software vendors are seeking to include in their products.
+ 
+Personalized KM – With all the talk of improved technology, delivery, and context, the last trend is more of a summary of trends. KM, and KM systems, are increasingly customized to the individual being asked to share, create, or find/leverage content. Different users have different missions, with some more consumers of knowledge within an organization and others more creators or suppliers of that knowledge. Advanced KM processes and systems will recognize a user’s responsibility and mandates and will enable them to perform and deliver in the most intuitive and seamless way possible. 
+This trend has a lot to do with content assembly and flexible content delivery. It means that, with the right knowledge about the user, today’s KM solutions can assemble only that information that pertains to the user, removing all of the detritus that surrounds it. For instance, an employee doesn’t need to wade through hundreds of pages of an employee handbook that aren’t pertinent to them; instead, they should receive an automatically generated version specifically for their location, role, and benefits.
+The customized KM trend isn’t just about consuming information, however. More powerfully, it is also about driving knowledge sharing behaviors. For example, any good project manager should capture lessons learned at the end of a project, yet we often see organizations fail to get their PMs to do this consistently. A well-designed KM system will recognize an individual as a PM, understand the context of the projects they are managing, and be able to leverage data to know when that project is completed, thereby prompting the user with a specific lessons learned template at the appropriate time to capture that new set of information as content. That is customized KM. It becomes part of the natural work and operations of systems, and it makes it easier for a user to “do the right thing” because the processes and systems are engineered specifically to the roles and responsibilities of the individual.
+Another way of thinking about these trends is by invoking the phrase “KM at the Point of Need,” derived from a phrase popularized in the learning space (Learning at the Point of Need). We’re seeing KM head toward delivering highly contextualized experiences and knowledge to the individual user at the time and in the way they need it and want it. What this means is that KM becomes more natural, more simply the way that business is done rather than a conscious or deliberate act of “doing KM.” This is exciting for the field, and it represents true business value and transformation.
+ 
+Do you need help understanding and harnessing the value of these trends? Contact us to learn more and get started.
+ 
+
+
+
+
+"
+10,https://enterprise-knowledge.com/leveraging-headless-cms-for-technical-cross-functionality/,"
+Headless CMS (Content Management System) architecture is a flexible development strategy for applications that is rapidly growing in today’s industry practices. Utilizing a headless CMS architecture allows an application to deliver content authored from a single interface to multiple delivery channels. Content is processed through an API (Application Programming Interface) and distributed to multiple channels or “heads,” by means of a central service, or the “body.” One of the concerns many organizations have about pursuing headless development is that producing content for multiple channels means having a team skilled in multiple areas. However, with a thoughtful approach, this can be a powerful opportunity for an organization’s engineering team.
+
+The code base for a headless CMS is complex, more so than a traditional, monolithic solution. While it would be ideal to have a development team consisting of people with existing, overlapping skills in all of the pieces the headless CMS project will touch, the reality is typically quite different. Rather than viewing this as an obstacle, however, the broad scope of headless CMS projects offer an opportunity for growth in an environment of siloed development. Because a headless CMS application often houses several communicating services, it is absolutely necessary for the entire team to be in sync with where certain data lives, how content is structured, and how each delivery point communicates with other delivery channels and/or the central service. To accomplish this, it is crucial to intentionally build a well-thought-out, cross-functional headless CMS team that will naturally tear down the existing silos between team members who would otherwise work on only a specific, small portion of the application. The team can then learn areas outside of their comfort zone and ensure the development team remains in sync, all while delivering a valuable product to a customer.
+Architecture of the Application
+Planning Phases
+Steps to building a strong cross-functional team begin early. During the planning phase for a headless project, if possible, ensure that the entire development team is involved in designing the architecture and selecting the technology stack for development. This will give engineers an opportunity to ask questions and explore learning materials regarding topics outside of their area(s) of expertise. Adding planning time into early sprints to invest in the growth of the technical team will pay off later in the development lifecycle. Beyond simply improving future work on the current project, expanding the abilities of the team now naturally leads to a larger bench of engineers who are experienced in the industry-wide practice of headless CMS development. It will also foster increased trust from both clients and the development team to have an entire team of developers fluent in the entire technology stack of an application. This allows for greater flexibility within both the space of a client’s availability and allotted work within a sprint.
+Building the Codebase
+Within the later phases of planning, consider the importance of structure and documentation within the API(s) that extend the functionality of the central microservice and deliver content. Building in the time to create solid documentation is a clear winner, both from the point of view of helping “future you” recall how a system works but also by making it dramatically easier for a teammate to pick up work in a new area and quickly get up to speed. Again, this expands the bench of engineers that are able to work in a traditionally siloed area, increasing productivity and mitigating the worry of technical debt. Engineers who are heavily involved in planning will feel more comfortable contributing code when development starts since they will be familiar with the architectural goals of the application. Because a Headless CMS is built with the ideal state able to implement limitless supported devices, building a codebase to house structured, flexible content, and clean points of communication results in a maintainable application and a well-prepared group of engineers. This also reinforces best practices of multiple languages/technologies during application development. As a result, engineers will better understand how to contribute scalable, well-commented code without the need for upskilling later on in the development process.
+Development Processes
+Team Code Reviews
+In many aspects, code reviews within the agile development process of a Headless CMS remain the same. However, to integrate the continuing theme of team cross-functionality, it is important to include the entire development team in the code review process. As multiple features are being added to the application in a sprint, it is crucial to ensure each team member maintains their understanding of the codebase. When reviewing code, keep in mind the structure of the application. Consider how the content should be structured in delivery and storage. Furthermore, keep in mind that the structure of said content may also be transformed upon delivery through APIs. In this way, it is most efficient to have the entire development team involved with all reviews of delivered code, not just those who have expertise in that area of development. With good communication and team synchronization during the process of review, there will be less time needed for upskilling. This allows all involved engineers to add features without the necessity to take time reviewing content delivery or general points of communication between services housed in the Headless CMS application.
+Consider having synchronous code reviews when code is added that will affect or extend the communication between APIs or any of the APIs with the central microservice. At the very least, make sure all developers have a chance to review all contributions made to the application as a whole to mitigate the scope creep caused by avoidable technical debt from upskilling later on.
+Version Control Workflows
+Another crucial aspect of Headless CMS development is the Git Workflow the application follows during a sprint cadence and production releases. It is surprisingly easy for a team’s Git Flow to fall out of sync in the midst of building features and making changes, especially when tasked with engineering such a large application. It is crucial for the entire team to understand what format their feature, bugfix, or hotfix branches must follow and where they should be branched from. This is especially important in the scope of building a Headless CMS application, considering all the possible points of failure between points of communication within the technology stack, channels of content delivery, and proper structure of stored data. If a team’s workflow falls out of sync, the possibility for portions of the application to fall behind or creep ahead increases. Accordingly, the imbalance of incurred technical debt may alter the development timeline of the application as a whole.
+In Summary
+To ensure the most efficient delivery of a headless CMS application, it is absolutely crucial to break down the silos of a development team throughout both the planning and development processes of a large application. Investing in the growth of developers and keeping a strong focus of synchronization regarding the whole product mitigates numerous risks of the development timeline of a headless CMS application. With the proper approach and correct mindset to leverage the opportunities of growth presented by this new development practice, a maintainable product can be delivered in the most efficient manner. Simultaneously, the development team involved with building the product will achieve growth and more opportunities to learn contemporary practices in the space of application development through hands-on practice.
+
+
+
+
+"
+12,https://enterprise-knowledge.com/the-importance-of-agility-during-the-great-resignation-part-2-attracting-talent/,"
+Introduction
+In Part I we discussed how to leverage Agile values to retain employees during the Great Resignation. Now let’s talk about turning the Great Resignation into an advantage. With 44% of the workforce looking for new opportunities, this is perhaps the best pool in decades from which to draw new talent. To be successful, you’ll need to embrace Agile values in your hiring process. As in Part I, we define Agility as a mindset expressed in a core set of values. Of particular focus in Part II are the values of collaboration, transparency, and fun. Sure, you can tell candidates about many of the great things about your company that we describe in Part I, but why not show them too?
+
+Collaboration
+Inevitably, job candidates will ask about your company culture; you should be prepared to highlight the ways your organization collaborates. At EK, most of our internal initiatives are driven by small groups collectively working through ideas and details using virtual whiteboards and collaborative document creation. For example, we have several Communities of Practice formed from the bottom up where we address relevant topics. No one person “owns” these CoPs; instead, ideas are discussed, and an approach is collectively agreed to. Additionally, blogs such as this one are written, critiqued, and edited using Google Docs in real-time. This enables collaborative discussions, which would be slower and more difficult in traditional, waterfall publication pipelines. It’s also worth noting that collaboration often leads to consensus, another core Agile value. Together, these characteristics lead to a greater sense of ownership and job satisfaction. When interviewing candidates, discuss collaborative opportunities where your candidates might enjoy contributing in a non-hierarchical manner.
+Secondly, don’t just tell candidates about how collaborative you are; show them. At Enterprise Knowledge (EK), many of our roles require strong facilitation skills. Therefore, one of our commonly used interview formats requires the candidate to facilitate a discussion with a role-playing product team in a real-world scenario. Our facilitation interviews aren’t designed with tricks and traps; rather, our interviewers actively seek to produce a collaborative artifact by the end of the discussion. The best candidates shine in a setting where they are able to effectively collaborate with strangers, and after being hired have often mentioned their positive experience getting a feel for how they will work with their future colleagues.
+Transparency
+Transparency throughout the hiring process is crucial to attracting talent. You can achieve Agile transparency in hiring by properly setting interview expectations and clearly communicating the interview timeline.
+For example, in the above collaborative facilitation interview scenario, EK provides detailed instructions as to what’s expected and specifically what is not expected (e.g. independent preparatory research on the topic, a single “correct” answer, nor a client-ready artifact). Candidates should also be kept abreast of where they currently stand in the process. If you’re still sourcing more applicants, tell them. If the process is going to take several weeks or the timeline is unknown, tell them. And if a candidate is removed from selection, tell them in a timely manner. A company’s hiring process speaks volumes about its character, and transparency is perhaps the most critical element to a positive experience.
+Fun
+Not all work is fun, but that doesn’t mean you shouldn’t look for opportunities to inject some excitement into what might otherwise be a monotonous process. In that vein, interviews can also be fun. At EK, we’ve used games like Catch Phrase and even group Lego building activities. It’s important to note that these aren’t just for the sake of fun. In addition to direct applicability to our work where we often incorporate games into the design/pilot phases of our change management strategy engagements, we’re assessing our candidates’ social interaction skills, which are critical for consultants. That said, feedback has shown that these activities are enjoyable for both candidates and interviewers alike.
+Conclusion
+Interviewing is a two-way process; candidates are interviewing you as well. Given that reality, the best way to attract talent is to show candidates your values rather than just talking about them. In particular, transparency, collaboration, and fun should be woven throughout your recruitment process. If you’re looking for help on how to instill these Agile values in your organization’s culture and undergo an Agile transformation in order to attract and retain top talent, our Agile consultants would love to hear from you!
+
+
+
+
+"
+13,https://enterprise-knowledge.com/the-value-of-data-catalogs-for-data-scientists/,"
+Introduction
+After the Harvard Business Review called Data Scientist the sexiest job of the 21st century in 2012, much attention went into the interdisciplinary field of data science. Students and professionals were curious to know more about what data scientists do, while businesses and organizations across industries wanted to understand how data scientists could bring them value.
+In 2016, CrowdFlower, now Appen, published their Data Scientist report to respond to this newfound interest. This report aimed to survey professional data scientists with different years of experience and fields of expertise to find, among other things, what their everyday tasks were. The most important takeaway from this report is that it supports the famous 80/20 rule of data science. This rule states that data scientists spend around 80% of their time sourcing and cleaning data. And, only 20% of their time is left to perform analysis and develop machine learning models, which according to the same CrowdFlower survey, is the task that data scientists enjoy the most. The pie chart below shows that 1 out of every 5 data scientists spends most time collecting data, while 3 out of every 5 spend most of their time cleaning and organizing it.
+
+More recently, Anaconda’s 2020 State of Data Science Report shows that the time data scientists spent collecting, cleaning, and organizing data improved. It now takes up to 50% of their time. From the bar chart on the right, we can notice that most of the improvement is due to a dramatic decrease in the time spent cleaning data, from 60% in 2016 to 26%. However, collecting data remained static at 19%. We can also notice the introduction of time spent on data visualizations. This addition speaks to the growing need to communicate the value of the data scientist’s work to non-technical executives and stakeholders. And therefore, it is not surprising that the amount of time dedicated to developing those visualizations is a third of the time spent generating that value through model selection, model training and scoring, and deploying models.
+In my experience, Anaconda’s report remains true to this date. When starting a data science project, finding the relevant data to fit the client’s use case is time-consuming. It often involves not only querying databases but also interviewing data consumers and producers that may point to data silos only known to a small group or even bring out discrepancies in understanding among teams regarding the data. Bridging the gap in understanding data among data personas is the most time-consuming task and one that I have witnessed data catalogs excel at performing.
+To keep this trend and reverse the 80/20 rule, businesses and organizations must adopt tools that facilitate the tasks throughout the data science processes, especially in data sourcing and cleaning. Implementing an enterprise data catalog would be an ideal solution with an active role throughout the data science process. By doing so, data scientists will have more time to spend on high-value-generating tasks, increasing the return on investment.
+Enterprise Data Catalogs
+Data catalogs are a metadata management system for the organization’s data resources. In the context of this blog, they help data scientists and analysts find the data they need and provide information to evaluate its suitability for the intended use. Some capabilities enabled by a data catalog are:
+
+Increased search speed utilizing a comprehensive index of all included data
+Improved visibility with custom views of your data organized by defined criteria
+Contextual insights from analytics dashboards and statistical metrics
+Documentation of cross-system relationships between data at an enterprise level
+
+Because of these capabilities, data catalogs prove to be relevant throughout the data science process. To demonstrate this, let’s review its relevance through each step in the OSEMN framework.
+Value of Data Catalogs to the OSEMN Framework
+The acronym OSEMN stands for Obtaining, Scrubbing, Exploring, Modeling, and iNterpreting data. It is a convenient framework to analyze the value of data catalogs because each step translates to a specific task in a typical data science project. Mason and Wiggins introduced this five-step OSEMN framework in their article “A Taxonomy of Data Science” in 2010, and it has been widely adopted by data scientists since.
+Obtain
+This step involves searching for and sourcing relevant data for the project. That is easy enough to do if you know what specific datasets to look for and whom to ask for access to the data. However, in practice, this is rarely the case. In my experience, the projects that generate the most significant value for the organization require integrating data across systems, teams, departments, and geographies. Furthermore, teams leading analytics and data science efforts recognize that the ROI of the project is highly dependent on the quality, integrity, and relevance of the sourced data. They, therefore, have been spending about a fifth of their time sourcing and verifying that they have high-quality and complete data for their projects. Data catalogs can help reduce this time through advanced search, enhanced discoverability, and data trustworthiness.
+
+Advanced Search: Enterprise-wide faceted search provides knowledge instead of simple results by displaying the data’s contextual information, such as the data assets owner, steward, approved uses, content, and quality indicators. Most teams won’t have access to all of the enterprise datasets. However, these metadata profiles help data scientists save time by using this information to find what data is available to them quickly, assess their fitness for their use case, and whom to ask for access to the data they need.
+Enhanced Discoverability: Although this is the first step in the OSEMN framework, this step comes after understanding the business problem. This understanding gives greater insight into the entities involved, such as customers, orders, transactions, organizations, and metrics. Hence, users can tag datasets according to the entities present in the data, and the data catalog can then auto-tag new content as it gets ingested. This feature allows new data to be discoverable almost immediately, resulting in additional and more recent data available for the project.
+Data Trustworthiness: Searching for data across systems and departments can be time-consuming and often does not yield great results. Occasionally, you might stumble upon data that seems fit for your use case, but can you trust it? Because of data catalogs, data scientists can save time by not having to do detective work tracking down the data’s origins to assess its reliability. Data catalogs allow you to trace the data’s lineage and display quality metrics taking out the guesswork of sourcing your data.
+
+Scrub
+Data scientists would curate a clean data set for their project in this step. Some tasks include merging data from different sources into a single data set, standardizing column formatting, and imputing missing values. As examined in the introduction, the time spent cleaning and organizing data has sharply decreased. I believe the advent of user-friendly ETL solutions has played a significant role in bringing down the time spent in this step. These solutions allow users to define pipelines and actions in graphic interfaces that handle data merging, standardization, and cleaning. While some data catalogs have such comprehensive ETL features, most will have basic ETL capabilities. The users can then expand these basic capabilities through third-party integrations. But ETL capabilities aside, data catalogs are still helpful in this step.
+Many organizations reuse the same data assets for multiple initiatives. However, each team cleans and standardizes the data only to store it inside their own project folder. These data silos add clutter, waste storage, and increase duplicative work. Why not catalog the clean and standardized data? This way, the next team that needs to use the data will save time using the already vetted and cleaned data set.
+Explore
+Data scientists usually perform exploratory data analysis (EDA) in this step. EDA entails examining the data to understand its underlying structure and looking for patterns and trends. Some of the queries developed in this step provide descriptive statistics, visualizations, and correlation reports, and some may even result in new features. Data catalogs can support federated queries so that data scientists can perform their EDA from a single self-service store. This way, they save time by not having to query multiple systems at different access points and figuring out how to aggregate them in a single repository. But the benefits do not stop there. The queries, the aggregated data set, and visualizations developed during the EDA process can also be cataloged and discoverable by other teams that might reuse the content for their initiatives. Furthermore, these cataloged assets become fundamental for future reproductions of the model.
+Model
+According to the CrowdFlower survey, this is the most enjoyable task for data scientists. We have been building up to this step, which many data scientists would say is “where the magic happens.” But “magic” does not necessarily have to be a black box. Data catalogs can help enhance the models’ explainability with their traceability features. Due to this, every stakeholder with access to the information will be able to see the training and test data, its origin, any documented transformations, and EDA. This information is an excellent foundation for non-technical stakeholders to understand and have enough context for the model’s results.
+So far, data catalogs provide circumstantial help in this phase, primarily byproducts of the interactions between the data scientist and the data catalog in the previous steps. However, data catalogs are directly beneficial during the model selection process. As we can see from the chart on the right, as more training data become available, the results of separate models become more similar. In other words, the model selection loses relevancy when the training data available for the model to train on increases. Hence, a data catalog provides a data scientist with a self-service data discovery platform to source more data than was feasible in previous efforts. And therefore, it makes the data scientists’ task more efficient by removing the constraints on model selection caused by insufficient data. Moreover, it saves time and resources since now data scientists can train fewer models without significantly impacting the results, which is paramount, especially when developing proof-of-concept models.
+iNterpret
+This step is where data scientists communicate their findings and the ROI of the project to the stakeholders. In my experience, this is the most challenging step. In Anaconda’s report, data scientists responded on how effectively their teams demonstrated the impact and value of data science on business outcomes. As we notice from the results below, data science teams were more effective in communicating their impact on businesses in industries with a higher proportion of technical staff. We can also notice a wide efficiency gap across sectors, with teams in consulting and technology firms having almost twice the efficiency in conveying their projects’ impact as teams driving healthcare data science projects.
+How effective are data scientist teams at demonstrating the impact of data science on business outcomes?
+To accommodate non-technical audiences, many data scientists facilitate this demanding task using dashboards and visualizations. These visuals improve the communication of value from the teams to the stakeholders. Further, data scientists could catalog these dashboards and visualizations in the metadata management solution. In this way, data catalogs can increase the project’s visibility by storing these interpretations in the form of insights that can be discoverable by the stakeholders and a wider approved audience. Data scientists in other departments, geographies, or subsidiaries with a similar project in mind can benefit from the previous work done and build on top of that whenever possible. Therefore, reducing duplicative work.
+Conclusion
+Data catalogs offer many benefits throughout a data science project’s process. They provide data scientists with self-service data access and a discoverability ecosystem on which to obtain, process, aggregate, and document the data resources they need to develop a successful project. Most of the benefits are front-loaded in the first step of the OSEMN framework, obtaining data. However, we can note their relevance throughout the remaining steps.
+I would like to clarify that no single data catalog solution will have all the capabilities discussed in this article embedded as a core feature. Please consider your enterprise needs and evaluate them against the features of the data catalog solution you consider implementing. Our team of metadata management professionals has led over 40 successful data catalog implementations with most major solution providers. Don’t hesitate to contact us so we can help you navigate the available data catalog solutions and use our expert knowledge to choose the one that best fits your organization’s needs and lead its successful implementation.
+Resources and Further Reading
+
+How Data Scientists Find Relevant Data with a Data Knowledge Graph (EK Team, 2018)
+A Data Scientist Perspective on Knowledge Graphs (Part 1): the Data-Driven Challenge (Van Rossom, 2022)
+Scaling to Very Very Large Corpora for Natural Language Disambiguation (Banko & Brill, ACL 2001)
+State of Data Science 2020 (Anaconda, 2020)
+Data Science Report 2016 (CrowdFlower, 2016)
+
+
+
+
+Download White Paper
+
+
+
+"
+14,https://enterprise-knowledge.com/three-pillars-of-successful-data-catalog-adoption/,"
+Data catalogs function as a central library of information about content and data across an enterprise, making them a useful metadata management tool. They can aid  organizations that struggle with poorly documented metadata, duplicated data work, and wasted time due to the inability to find proper resources. As my colleague Joe Hilger further elaborates in his post on The Top 5 KM Technologies, data catalogs can benefit companies seeking to manage siloed content and improve resource findability. The key to unlocking the knowledge management and data insight advertised by catalog providers requires a careful catalog implementation strategy.
+
+
+
+The top 10 data catalog providers in 2022 according to The Forrester Wave:
+– Atlan
+– data.world
+– Collibra
+– Informatica
+– Google
+– Microsoft
+– Alation
+– Talend
+– Oracle
+– Cloudera
+
+
+
+I have led the training and adoption process for data catalog implementations for my full tenure at Enterprise Knowledge (EK). During this time, I have consulted with both our client catalog program managers and catalog provider implementation teams to determine what did or didn’t work to drive catalog adoption at their companies. I have reviewed catalog user research studies across widely differing organizations to learn how various implementation approaches affect the data teams they intend to support. 
+My key finding is that successful adoption of a data catalog requires both a user-driven program design and integrating the tool into your team’s day-to-day tasks. In this white paper, I consolidate my experience and findings into three strategic pillars essential to create the necessary catalog environment:
+1. Cater to your company’s culture.
+2. Make it easy (and enticing) to use.
+3. Measure how it’s going.
+As each company is unique in both its data ecosystem and goals, there is not a singular approach or definition of “success” for this framework. Each use case requires context-based solutions. I present these pillars as a guide to help you brainstorm an implementation strategy specific to your organization. If you would prefer expert assistance, EK’s team of data specialists is available to help you design an enterprise catalog program tailored to your unique team and data strategy. 
+1. Cater to your company’s personas
+A culture-driven design means defining an initial use case that satisfies the requirements of the organization as a whole, including both your executive stakeholders and your data users.
+Top-down approach 
+Obtain support from stakeholders by aligning catalog program goals with the broader data strategy at your company.
+As a first step, clarify why your organization is moving to implement a catalog. What are you trying to accomplish by adding this tool to the data ecosystem? Once you’ve ascertained your organization’s why, then move on to the how. What level of investment are you able to put in? Which catalog providers fit in that scope? Secure executive and stakeholder sponsorship by demonstrating how the addition of a data catalog will fit with the broader data vision. Working to align these two strategies will help you to develop your catalog program high-level goals.
+What does success mean for your program overall? With your high-level goals in mind, what specific use cases should you focus on first to step forward towards those goals? Is your priority increased efficiency or increased findability? You understand that by talking to the teams who will use the data catalog for their regular operations. What do your users need to be successful?
+Bottom-up approach
+Consult with your data team and prospective catalog users to determine what solutions they need to reach the company’s broader goals.
+Collaborate with your users to define a range of catalog use cases. To do this, you must clearly define who your company’s catalog users will be. What are their needs, current workflows, and vital tools? Do not assume; ask them. 
+Different data personas will have different needs. For example, catering only to data consumers and neglecting the data producers will not build a lasting catalog. Conversely, a catalog with only detailed technical metadata will exclude business decision makers and less technical users. Strive to create a data ecosystem that supports all of your personas. When everyone on the team feels heard, teams trust each other and work together. Therefore, it is vital to explore and clearly define the catalog personas specific to your company and data strategy before you design the catalog. Model the catalog metadata fields around the personas you develop – What problems are your users trying to solve? What information do they need to be able to solve them? 
+
+
+
+Resources for persona and use case development:
+– Personas to Products: Writing Persona Driven Epics and User Stories
+– How to Build a User-Centric Product: A Quick Guide to UX Design
+– The Value of User Stories
+
+
+
+The goal of combining top-down and bottom-up approaches is to build a culture of community and shared purpose around the catalog. Empathy between user groups leads to workflows that unite, rather than clash, in support of the group effort. To achieve this, the catalog must be approachable, accurate, and integrate into the team’s established workflows. 
+2. Make it easy (and enticing) to use
+Data catalogs become more valuable as more people use them. How can you recruit more users?
+Meet your team where they are
+Don’t let catalog adoption be an added stress to your users. Design a program and select a tool that fits their current workflow. Simplify the onboarding process with customized training offerings. 
+Technology ecosystem – Integrate with current workflows, embedding commonly used tooling where possible. Actively engaged users make it easier to keep the catalog updated. A catalog that is too burdensome or convoluted to use will collect dust and depreciate. Then, when users log in and find inaccurate data due to neglect, they will lose their trust  in the entire catalog and adoption will fail. Avoiding this requires smart tool selection. Determine and understand the tooling that is vital to your users and confirm it is able to integrate with the catalog provider you select. The goal of this segment is to configure a catalog that will become part of the team’s daily operations for data work. Having constant access and collaboration from your teams helps to ensure accuracy and completeness of metadata by surfacing issues sooner.
+Education – Aim to provide self-serve documentation so users can learn at their own pace as their unique needs arise. EK suggests creating customized training materials for the tool using company specific resources, use cases, and your catalog instance UI. This helps your users envision how the catalog fits with their workflow and how they can use it to successfully complete their unique tasks. It can be helpful to designate a few catalog SMEs within your data teams, train them to be power users, and then set them up to help onboard additional users.
+What’s in it for me? 
+Develop a marketing strategy to broadcast catalog capabilities and internal successes.  
+At first, the catalog may seem like added work for your users. Some might think, “Oh great, management is adding another ‘solution’ to our already busy process.” Why should your team make the time to interact with it? What is the reward? The technical benefits of a properly implemented catalog should speak for themselves, so broadcast these! 
+EK’s experience has found that you don’t need to recruit everyone all at once. Aim to first establish something beneficial for an initial core group of users and develop some success stories to share. Then, market to the broader audience. Let the benefits speak for themselves and entice people to seek out the catalog rather than trying to force it.
+For example, did a data manager curate metadata for x amount of resources, supporting the y team to save z units of time using the catalog? Create a case study to share this success with your organization. A well-crafted case study serves two purposes – first, it recognizes the team members who have added the catalog to their workflow. Second, it increases awareness about the success your data team can unlock using the catalog. Ideally, you want to create an atmosphere where new users are drawn to the catalog by witnessing the success of their peers.
+
+
+
+Resources about the value of data catalogs from EK thought leaders:
+– The Value of Data Catalogs for Data Scientists
+– Semantic Data Portal/Data Catalog
+– Managing Disparate Learning Content
+– Metadata Catalogs featured as part of The Top 5 KM Technologies
+– Knowledge Management is More Than SharePoint
+
+
+
+The best way to entice your data team is through testimonials from users similar to them supported by actual performance data. Strategize your internal marketing plan before implementation begins. Plan to do an initial marketing push at regular intervals to recap the growing success of the catalog and showcase the increasing number of teams and users engaged with it. After the catalog has been established, consider sending updates whenever there have been substantial wins or when teams develop new use cases. 
+Some data catalog products facilitate sharing catalog usage and successes directly in the user-interface. When choosing a catalog, look for tools that include the ability for users to collaborate within the app and view the activity of other users. Being able to login and see what other team members are working on not only invites discussion but also encourages new users to contribute. 
+3. Measure how it’s going
+What is working as expected and what is not? Do you need to change course? How can you demonstrate value and progress to stakeholders?
+Key Performance Indicators (KPIs)
+Use quantifiable results to demonstrate ROI and to monitor catalog usage. 
+Have a KPI monitoring plan in place before tool selection. Will your catalog of choice enable you to measure what matters to you? To determine what metrics to measure, reflect on your use case. What is your desired outcome? What are the success criteria to support it? 
+
+
+
+Example Success Indicators
+Provided Insight
+
+
+Successful searches (searches that result in a click through)
+Are your users finding what they need in the catalog? How much time is it taking them to find?
+
+
+New user sign in/activity
+Are new users enrolling? Did they browse for one day and leave?
+
+
+
+It is important to know not only what to measure, but when to measure it. For example, we have  found that effective catalog use doesn’t necessarily mean users will go to the catalog every day. Catalog use may peak during the discovery phase of a project and then steadily decline. When reviewing a decline in user stats, is this decline because your users could not find the resources they needed and abandoned the catalog? Or did they find valuable resources and now are deep in analysis, which won’t require daily catalog use. How can you determine the reason? Survey your users!
+User feedback
+Successful catalog adoption hinges entirely on your users. Seek out feedback to understand how the catalog is (or isn’t) working for them.
+In the case of a data catalog, better content quality enables greater product functionality. While usage monitoring and KPIs will help inform you how users interact with the catalog, it is also essential to frequently engage with your users. Direct user feedback can help you improve the platform’s usability and highlight value to stakeholders. Methods for gathering feedback include focus groups, surveys, and direct interviews. Demonstrating that you value and act on gathered feedback will build their trust in the catalog program. When your users trust the catalog, they will rely on it as part of their default workflow
+As you progress from implementation to the next phase, use feedback to learn from your users whether the next iteration should focus on refactoring what currently exists, deepening the current use case, or exploring new territory. 
+Conclusion
+A user-driven catalog approach is adaptive to changes in data needs and flexible when scaling for both more users and use cases. Centering your users when designing your catalog program provides the most value to your team members who rely on it. When your teams are successful, they will push the broader data strategy forward for the entire organization.
+EK’s team of metadata management and data modeling specialists have the experience needed to help you explore and adapt these pillars to your unique organization. Contact us to learn more about how Enterprise Knowledge can help drive your data catalog adoption to success.
+
+
+
+Download White Paper
+
+
+
+"
+15,https://enterprise-knowledge.com/tips-for-implementing-km-technology-solutions/,"
+In the digital age that we now live in, making Knowledge Management (KM) successful at any organization relies heavily on the technologies used to accomplish every day tasks. Companies are recognizing the importance of providing their workforce with smarter, more efficient, and highly specialized technological tools so that employees can maximize productivity in their everyday work. There’s also the expectation for a KM system, like SharePoint, to act as an all-in-one solution. Companies in search of software solutions often make the mistake of thinking a single system can effectively fulfill all of their needs including content management, document management, AI-powered search, automated workflows, etc., which simply isn’t the case. The reality is that multi-purpose software tools may be able to serve more than one business function, but in doing so only deliver basic features that lack necessary specifications and result in a sub-par product. More information on the need for a multi-system solution can be found in this blog about the importance of a semantic layer in a knowledge management technology suite.
+In our experience at Enterprise Knowledge (EK), we consider the following to be core and essential systems for most integrated KM technology solutions:
+
+Content Management Systems
+Taxonomy Management Systems
+Enterprise Search Tools
+Knowledge Graphs
+
+The systems mentioned above are essential tools to enable successful and mature KM, and when integrated with one another can serve to revolutionize the interaction between an organization’s staff and its information. EK has seen the most success with client organizations once they have understood the need for a blended set of technological tools and taken the steps to implement and integrate them with one another.
+Once this need for a combined set of specialized solutions is realized, the issue of how to implement these solutions becomes ever-present and must be approached with a specific strategy for design and deployment. This blog will help to outline some of the key tips and guidelines for the implementation of a KM technology solution, regardless of its current state.
+
+Prioritizing Your Technology Needs
+When thinking about the approach to implementing an organization’s identified technology solutions, there is often an inclination to prioritize solutions that are considered “state-of-the-art” or “cooler” than others. This is understandable, especially with the new-age technology that is on the market and able to create a “wow” factor for a business’ employees and customers. However, it is important to remember that the order in which systems are implemented relies heavily on the current makeup of the organization’s technology stack. For example, although it might be tempting to take on the implementation of an AI-powered knowledge graph or a chat-bot that has Natural Language Processing (NLP) capabilities, the quality of your results and real-world usability of the product will increase dramatically if you also include other technologies such as a graph database to provide the foundation for a knowledge graph, or a Taxonomy Management System to allow for the design and curation of an enterprise taxonomy and/or ontology.
+Depending on your organization’s level of maturity with respect to its technology ecosystem, the order in which systems are implemented must be strategically defined so that one system can build off of and enhance the previous. Typically, if an organization does not possess a solidified instance of any of the core KM technologies, the logical first step is to implement a Content Management System (CMS) or Document Management System (DMS), or in some cases, both. Following the “content first” approach, commonly used in web design and digitalization, organizations must first have a place in which they can effectively store, manage, and access their content, as an organization’s content is arguably one of its most valuable assets. Furthermore, one could argue that all core KM technologies are centered around an organization’s content and exist to improve/enhance that content whether it is adding to its structure, creating ways to more efficiently store and describe it, or more effectively searching and retrieving it at the time of need.
+Once an organization has a solidified CMS solution in place, the next step is to implement tools geared towards the enhancement and findability of that content. One system in particular that helps to drastically improve the quality of an organization’s content by managing and deploying enterprise wide taxonomies and ontologies is a Taxonomy Management Systems (TMS). TMS solutions are integrated with an organization’s CMS and search tools and serve as a place to create, deploy, and manage poly-hierarchical taxonomies in a single place. TMS tools allow organizations to add structure to their content, describe it in a way that significantly improves organization, and fuel search by providing a set of predefined values from a controlled vocabulary that can be used to create facets and other forms of search-narrowing instruments. A common approach to implementing your technology ecosystem involves the simultaneous implementation of an enterprise search solution alongside the TMS implementation. Once again, the idea of one solution building off another is present here, as enterprise search tools feed off of the previously implemented CMS instance by utilizing Access Control List (ACL) specifications, security trimming considerations, content structure details, and many more. Once these three systems are in place, organizations can afford to look into additional tools such as Knowledge Graphs, AI-powered chatbots, and Metadata Catalogs.
+Defining Business Logic and Common Uses
+There is a great deal of preparation involved with the implementation of KM technologies, especially when considering the envisioned use of the system by organizational staff. As part of this preparation, a thorough analysis of existing business processes and standard operating procedures must be executed to account for the specific needs of users and how those needs will influence the design of the target system. Although it is not always initially obvious, the way in which a system is going to be used will heavily impact how that system is designed and implemented. As such, the individuals responsible for implementation must have a well-documented, thorough understanding of what end users will need from the tool, combined with a comprehensive list of core use cases. These types of details are most commonly elicited through a set of analysis activities with the system’s expected users.
+Without these types of preliminary activities, the implementation process will seldom go as planned. This is because various detours will have to be taken to accommodate the business process details that are unique to the organization and therefore not ‘pre-baked’ into software solutions. These considerations sometimes come in the form of taxonomy/controlled list requirements, customizable workflows, content type specifications, and security concerns, to name a few.
+If the proper arrangements aren’t made before implementing software and integrating with additional systems, it will almost always affect the scope of your implementation effort. Software implementation is not a “one size fits all” type of effort; there are certain design elements that are based on the business and functional requirements of the target solution, and these must be identified in the initial stages of the project. EK has seen how the lack of these preparatory activities can have impacts on project timelines, most commonly because of delays due to unforeseen circumstances. This results in extended deadlines, change requests, additional investment, and other general inefficiencies.
+Recruiting the Proper Resources
+In addition to the activities needed before implementation, it is absolutely essential to ensure that the appropriate resources are assigned to the project. This too can create issues down the road if not given the appropriate amount of time and attention before beginning the project. Generally speaking, there are a few standard roles that are necessary for any implementation project, regardless of the type or complexity of the effort. These roles are listed and described below:
+
+KM Designer/Consultant: Regardless of the type of system to be implemented, having a KM consultant on board is needed for various reasons. A KM consultant will be able to assist with the non-developmental areas of the project, for example designing taxonomies/ontologies, content types, search experiences, and/or governance structures.
+Senior Solutions Architect: Depending on the level of integration required, a Senior Solutions Architect is likely required. This is ideally a person with considerable experience working with multiple types of technologies that are core to KM. This person should have a thorough and comprehensive understanding of how to arrange systems into a technology suite and how each component works, both alone and as part of a larger, combined solution. Familiarity with REST, SOAP, and RPC APIs, along with other general knowledge about the communication between software is a must.
+Technology Subject Matter Expert (SME): This role is absolutely critical to the success of the implementation, as there will be a need for someone who specializes in the type of software being implemented. For example, if an organization is working to implement a TMS and integrate it with other systems, the project will need to staff a TMS integration SME to ensure the system is installed according to implementation best practices. This person will also be responsible for a large portion of the “installment” of the software, meaning they will be heavily involved with the initial set up and configuration based on the organization’s specific use of the system.
+KM Project Manager: As is common with all projects, there will be a need for a project manager to coordinate meetings, ensure the project is on schedule, and facilitate the ongoing alignment of all engaged parties. This person should be familiar with KM so that they can align efforts with best practices and help facilitate KM-related decisions.
+API Developer(s): Depending on the level of integration required, a developer may be needed to develop code to serve as a connector between systems. This individual must be familiar with the communication logic needed between systems and have a thorough understanding of APIs as well. The programming language in which any custom coding is needed will vary from organization to organization, but it is required that the developer has experience with the identified language.
+
+The list above is by no means exhaustive, nor does it contain resources that are commonly assumed to be a part of any implementation effort. These roles are simply the unique ones that help with successful implementations. Also, depending on the level of effort required, there may be a need for multiple resources at each role, such as the developer or SME role. This type of consideration is important, as the project will need to have ample resources according to the project’s defined timeline.
+Defining a Realistic Timeline
+One final factor to consider when preparing for a technology solution implementation effort is the estimated time with which the project is expected to be completed. Implementation efforts are notoriously difficult to estimate in terms of time and resources needed, which often results in the over- or under- allocation of financing for a given effort. As a result of this, it’s recommended to err on the side of caution and incorporate more time than is initially estimated for the project to reach completion. If similar efforts have been completed in the past, utilize informal benchmarking. If available resources have experience implementing similar solutions, bring them to the forefront. The best way to estimate the level of effort and time needed to complete certain tasks is to look at historical data, which in this case would be previous implementation efforts.
+In EK’s experience implementing large scale and highly complex software and custom solutions, we have learned that it is important to prepare for the unexpected to ensure the expected timeline is not derailed by unanticipated delays. For example, one common consideration we have encountered many times and one that has created significant delays is the need to get individuals appropriate access to certain systems or organizational resources. This is especially relevant with third-party consultants and when the system(s) in question have high security requirements. Additionally, there are several KM-related considerations that can unexpectedly lengthen a project’s timeline, such as the quality/readiness of content, governance standards and procedures that may be lacking, and/or change management preparations.
+Conclusion
+There are many factors that go into an implementation effort and, unfortunately, a lot of ways one can go wrong. Very seldom are projects like these executed to perfection, and a majority of the times that they fail or go awry is due to one or a combination of a few of the factors mentioned above. The good news and common theme with these considerations is that these pitfalls can mostly be avoided with the proper planning, preparation, and estimates (with regards to both time and resources). The initial stages of an implementation effort are the most critical, as these are the times where project planners need to be honest and realistic with their projections. There is often the tendency to begin development as soon as possible, and to skip most of the preparatory activities due to an eagerness to get started. It is important to remember that successful implementation efforts require the necessary legwork, even if it may seem superfluous at the time. Does your company need assistance implementing a piece of technology and is not sure how to get started? EK provides end-to-end services beginning with strategy and design and ending with the implementation of fully functional KM systems. Reach out to us! Contact us with any questions or general inquiries.
+
+
+
+
+"
+16,https://enterprise-knowledge.com/top-5-tips-for-managing-and-versioning-an-ontology/,"
+Sometimes, clients who come to EK confident in their ontology development capabilities find themselves wrongfooted when it comes to creating an ontology management plan. This is partly a result of documentation – there are a wide variety of resources on development methodologies, and considerably less on the nitty gritty of making sure that an ontology remains use case-aligned and usable for years to come. Lack of guidance can result in vague ontology management plans that don’t fully account for the actions that will need to be taken. This article will go over the five key components to an effective ontology versioning and management plan. After reading, you will be able to pursue ontology management confident that you have the details down.
+Accommodating Change
+Ontologies are not static artifacts. They grow as new use cases are identified and brought on, and develop as the content and understanding that underpins them changes. Sometimes, the process of deploying an ontology leads to these changes, as the business understanding of how the ontology will be applied is refined. For example, one of our clients began their modeling project with the goal of creating a standardized set of canonical data schemas. As the project approached implementation and met roadblocks, the team realized that what data consumers really needed were trusted data products made available through an internal data catalog, rather than additional schemas. Modeling and governance practices shifted to support the new use case, and the project was successful thanks to a greater alignment with data consumer needs.
+Whatever the source of change, the ontology will need to have a plan in place to ensure that updates are transparent, maintain interoperability, and can scale. To ensure that the goals of transparency and interoperability are met requires a robust approach to versioning, as part of a comprehensive governance plan. Periodic change is common to ontologies, especially in the first year of development. We have seen clients completely change their approach to modeling relationships, or who decide to move away from reusing open ontology models that weren’t well suited to their use case. In both those instances, the client needed a way to communicate the magnitude of the change, and ensure that users aligned to the newest version of the ontology.
+Versioning is the ability to track and communicate what changes have been made to a file as it is updated. Generally, new versions are identified through the use of a version number, and come with information on what changes were made. Like updates to a piece of software, versioning lets users know when there is a more up-to-date version of the ontology they should move onto, and what changes were made. Versioning is critical to making sure that integrations with the ontology stay aligned Versioning can also communicate the level of changes made via an update, and whether those changes are backwards compatible or not. Tracking changes via a versioning plan is the key to ensuring usability of an ontology over time, as well as its longevity in the face of change. This leads into the first tip:
+ 
+
+1. Track Version Information within the Ontology
+There are a number of places where a version number can be tracked and delivered to consumers. One of the best places to track this information is within the ontology itself, using a datatype property. This has the benefits of making sure that the ontology cannot be separated from its version information, and that this information is easy for the ontologist to access and update. 
+OWL ontologies can use the preexisting OWL attribute owl:versionInfo to store version information. If the OWL standard is not in use, then version information can be tracked using rdfs:comment or an annotation property assigned by the editor. Semantic Web Company’s PoolParty Thesaurus Manager (PPT), for instance, uses rdfs:comment to track description information and can be used to record a version number for ontologies. TopQuadrant’s TopBraid EDG Ontology editor defines a custom attribute, http://topbraid.org/metadata#version or metadata:version, to store ontology version information. 
+
+Example of how rdfs:comment can be used to store a version number in PPT. In this example, the version number is 1.2.0
+Regardless of which standard you use, the key is to ensure the version info can always be found alongside the ontology, and that the version info can be updated easily when changes are committed.
+Be Aware: Some ontologies track the version number in the namespace of the ontology. Tracking the version number like this means that the namespace changes with every new update, which can cause difficulties with software integrations. As a result, this method of version tracking is generally not recommended.
+
+One example of a namespace with a version number is the FOAF ontology namespace, pictured above. For more information on namespace and URIs, check out Resolving Uniform Resource Identifiers.
+ 
+
+2. Use the Semantic Versioning (SEMVER) Standard
+The Semantic Versioning specification, or SEMVER, is a software development standard that guides how to create and apply version numbers in such a way that users can understand the level of changes made. Within SEMVER, version numbers are constructed following a pattern of X.Y.Z where X is the major version number, Y is the minor version number, and Z is the patch version number.
+A mock version number. In this example, 8 is the major version number, 1 is the minor version number, and 7 is the patch version number. Note that the “Version” is not a part of the number, and not required under SEMVER.
+The Major version number is incremented when updates are made that will cause a break in backwards compatibility. The Minor version number is incremented when updates are made that add functionality without causing a break in backwards compatibility. Finally, the Patch version number is reserved for bug fixes that do not cause a break in backwards compatibility. The Patch version number is less commonly used alongside ontologies, as an ontology editor will typically be able to catch any RDF issues as part of its quality assurance features. More information detailing how to use this standard can be found within the documentation.
+By following the SEMVER rules for the construction of version numbers, the ontology will communicate an update’s level of impact to users. Changes to the major version number signal that there may be required updates to integrations with the ontology, while minor and patch number changes do not. It ensures that the ontology versioning follows the best practices of a widely adopted standard.
+Note: Not every change that first appears to break backwards compatibility actually will, depending on implementation. Consider first if the entity being updated is in use within a source system. If the entity is not in use, then it can safely be altered or removed without affecting compatibility. Generally, anything not in use by another system can be safely changed or removed without requiring a major change process.
+ 
+3. Have a Plan for Deprecation
+Removing outdated modeling is a reality of ontology upkeep and development. Privacy and security in particular are two areas that we often see evolve as an organizational understanding of how to enforce privacy and security develops and language shifts. When this happens, the previous concepts and terms need to be sunsetted once their replacements become available.
+Just deleting the entities everytime that modeling becomes outdated will quickly rack up potentially breaking changes however, and this can lead to wide disruption of downstream consuming systems. Instead of immediately deleting the outdated entities, it is better to deprecate them first.
+Unlike deletion, deprecation does not immediately remove a piece of modeling. Instead, deprecation involves signaling that the modeling in question is no longer supported, and will be removed in the future. Deprecation should also indicate where possible what modeling should be used instead of the deprecated modeling. 
+Deprecating before deletion allows for ontology users to prepare for upcoming breaking changes. The deprecated entity should clearly state that it is deprecated, why it was deprecated, and point to possible replacements if any exist. Deprecated entities should be easily distinguished from non-deprecated entities in the editor. The open-source ontology editor Protégé will automatically strike through deprecated concepts, for example.
+Example of a deprecated class in Protégé.
+Deprecated concepts can also be distinguished by adding “(Deprecated)” to the end of the label. Following these rules for deprecation will help to preserve backwards compatibility in the short term, while ensuring that users move away from outdated modeling before it is removed.
+Bonus Tip: Deprecated entities should stay in the ontology until the next major change, at which point they should be removed. This helps to group major changes together, while also giving ontology users time to move off of the deprecated entities.
+ 
+4. Keep a Changelog
+Data consumers will want to know what changes were made between versions. If you are using a version control system like git or GitHub, then the changes made between versions will automatically be reflected in the file comparison, also known as a diff. It is important to note here  that these systems track every change in the RDF serialization. Normal RDF editors do not write entities in a specific order, so changes in that order will be incorrectly flagged by the diff as updates to the ontology. We typically avoid this  by using an extension that sorts the RDF when it is written, such as the Ordered Turtle Serializer for rdflib, or TopBraid’s Sorted Turtle. 
+Alternatively, the record of these changes can be tracked and delivered by the ontologist, either through a note attached to new version publications or an excel sheet documenting the changes. One example of this is the Financial Industry Business Ontology, or FIBO, which maintains an extensive record of changes made within each revision as part of their release notes. Note that manual tracking can quickly become overwhelming, so look to automate where possible when producing a changelog.
+ 
+5. Deliver the Right Version
+Once an ontology has been versioned, you need to make sure that the correct version of the ontology is being delivered to users. While it may be tempting to simply delete and replace the old version, there may be consumers who need to stay on a prior ontology version temporarily. Rather than deletion, look into providing both Ontology IRI and an Ontology Version IRI endpoints alongside exports. The Version IRI endpoint is a link or identifier that points to a specific version of the ontology, while the more general Ontology IRI is a link or identifier that points to the latest version of the ontology. Manchester University’s Protégé pizza tutorial ontology distinguishes between its IRIs by adding the version number to the end of the version IRI.
+
+The Manchester University pizza tutorial ontology IRIs. Note that Protégé automatically supports the use of both IRI types, as do other editors like TopBraid EDG.
+Another approach is to create a publicly available archive that hosts prior versions of the ontology. Consumers who are unable to move onto the latest version of the ontology can then have uninterrupted access to the modeling they need. Be sure to communicate that prior versions are no longer being updated, however. Trying to maintain and update different ontology versions can quickly get out of hand. Also make sure that the location of the latest version is stable and does not change.
+
+While it may be easy to overlook, having a versioning plan in place is an important part of maintaining the long-term usability of an ontology. These are our top considerations and tips if you and your team are looking to understand what it takes to develop and maintain your model. Here at Enterprise Knowledge, we work with a wide variety of clients helping them to create and manage ontologies, and help our clients to create the customized versioning and governance plan that best suits their needs. If you would like to learn more about ontology versioning and governance, reach out to us to learn more about how we can create a customized plan together. 
+
+
+
+
+"
+17,https://enterprise-knowledge.com/top-graph-use-cases-and-enterprise-applications-with-real-world-examples/,"
+Graph solutions have gained momentum due to their wide-ranging applications across multiple industries. Gartner predicts that graph technologies will be used in 80% of data and analytics innovations by 2025, up from 10% in 2021. Several factors are driving the adoption of knowledge graphs. Specifically, the increasing amount of data being generated and collected, and the need to make sense of it, and its use in artificial intelligence and machine learning, which can benefit from the structured data and context provided by knowledge graphs.
+For many organizations, however, the question remains, “Is it the right solution for us?” We get this question regularly. Here, I will draw upon our own experience from client projects and lessons learned to provide a selection of optimal use cases for knowledge graphs and semantic solutions along with real world examples of their applications.
+
+Use Case #1: Customer 360 / Enterprise 360
+
+Customer data is typically spread across multiple applications, departments, and regions. Each team and system need to keep diverse sets of data about their customers in order to play their specific role – inadvertently leading to siloed experiences. A graph solution allows us to create a connection layer that facilitates consistent aggregation and ingestion of diverse information types from sources, internal or external, to the organization. Graphs boost knowledge discovery and efficient data-driven analytics to understand a company’s relationship with customers and personalize marketing, products, and services.
+Real World Examples:
+Customer 360 for a Commercial Real-Estate Company
+“We lost a multi-million-dollar value customer after one of our regional sales reps offered the customer a property that the customer already owned. How do we get better with understanding our customers? We would like to be able to quickly answer questions like:
+
+Who is our repeat customer in North America over the last 10 years?”
+
+Customer 360 for a Global Digital Marketing and Technology Firm
+“Our customer databases contain records for more than 2 billion distinct consumers (supposed to be reflecting an estimated 240 million real world individuals) – we need to understand how many versions of ‘Customer A’ we have in order to integrate the intelligence gathered from different data sources to fully understand each customer.”
+Solution Outcomes: Lead generation and sales cycles are improved through faster access to content and improved customer intelligence (and ability to customize materials), where a 1% decrease in time spent searching for customer information by a sales rep resulted in $6.24M in cost savings annually. Increased awareness of and ability to leverage customer connections within these companies, helps foster positive customer relationships.
+Use Case #2: Content Personalization
+The next critical step after understanding customers is to personalize and recommend relevant content to them. With the size of data and dropping attention spans of online users, digital personalization has become one of the top priorities for companies’ business models. Especially with third-party cookies being phased out, companies need innovative ways to understand and target their online customers with relevant and personalized content. Graph analytics provide a meaningful way to aggregate information about a customer and create relationships with your solutions and services to determine a way to decide what information is right to share with a customer. 
+Real World Examples:
+Customer Journey Map for a Healthcare Training and Information Provider
+“We want to understand a patient’s journey to serve the next best content and information using the right channel and cadence.”
+“We want to deliver tailored training content and course recommendations based on our audience and their setting so that we can connect users with the exact learning content that would help them better master key competencies.”
+Solution Outcomes: A semantic recommendation service that is beating accuracy benchmarks and replacing manual processes aggregating content – that is supporting higher-quality, more advanced, and targeted recommendations with clear reasons. Rich metadata and semantic modeling continue to drive the matching of 50K training materials to specific curricula, leading new, data-driven, audience-based marketing efforts that demonstrate how the recommender service is achieving increased engagement and performance from over 2.3 million users.
+Use Case #3: Supply Chain and Environmental Social Governance (ESG)
+Having a plan for ESG is no longer an option. Many organizations now have a goal to establish a standardized, central platform to get insights on environmental impacts associated with their supply chain processes. However, this information is typically stored in disparate locations, often hidden within departmental documents or applications. Additionally, there is usually no standardized vocabulary used across different industries, leading to inconsistent understandings of key business and supply chain concepts. Graphs reconcile such data continuously crawled from diverse sources to support interactive queries and provide a graphic representation or model of the elements within supply chain, aiding in pathfinding and the ability to semantically enrich complex machine learning (ML) algorithms and decision making.
+Real World Examples:
+Aggregating Data to Reduce Carbon Footprints of Supply Chain for a Global Consultancy 
+“We are at a pivotal time in ESG where our clients are coming to us to answer questions like:
+
+What’s the best material we can use to package Product x? 
+What shipping route is the most fuel efficient? 
+Who was my most ESG compliant plant in 2020?”
+
+Solution Outcomes: Graph embedded, machine-readable relationships between key supply chain and ESG concepts in a way that do not require tables and complex joins that enabled the firm to leverage their extensive knowledge base around methods to reduce environmental impact and guided them in building a centralized database of this knowledge. Consultants can leverage insights that are certified and align with industry standards to provide clients with a strategy that can generate profit while supporting sustainability mission and impact, detect patterns and provide market intelligence to their clients.
+Use Case #4: Financial Risk Detection and Prediction
+The financial industry is made up of a network of markets and transactions. A risk issue in one financial institution could result in a domino effect for many. As such, most large financial organizations have moved their data to a data lake or a data warehouse to understand and manage financial risk in one place. Yet, the biggest challenge for risk analysis continues to suffer from lack of a scalable way of understanding how data is interrelated. A graph or network is enabling institutions to model and visualize these connections as a collection of nodes and points that specifies the exact link between certain financial concepts and entities. Graph-based solutions further leverage the relationships among the entities involved to create a semantically enhanced machine learning model.
+Real World Examples:
+Financial Risk Reporting for a Federal Financial Regulator 
+“Data scientists and economists were finding it difficult to make efficient use of siloed data sources in order to  easily access, interpret, and  regulatory functions including answering questions like:
+
+What are the compliance forms and reporting requirements for Bank X?
+Which financial institutions have filed similar risk compliance issues?
+Which financial institutions are behind on their risk reporting and filings this year?
+What’s the revision history and the corresponding policies and procedures for a given regulation?”
+
+Realtime Fraud Detection For Multinational e-Commerce Company
+“We want to tap into our extensive historic listing data to understand the relationship between packages being rerouted, listings, and merchants to ultimately detect shipping scams so that we can minimize the fraud risk for online merchants from ‘unpaid’ and fraudulent purchases on their listing items.”
+Solution Outcomes: Graph data that enables explorations, linking and understanding of entities such as product, categories/customer, orders that supports risk fraud pattern detections for the organization’s risk engine algorithm. Ultimately resulting in: 
+
+Real-time risk fraud detection: Risk fraud pattern detections for risk engines to onboard.
+A non-disruptive fraud prevention: Help the company identify and truncate fraudulent transactions before they take place without impacting legitimate business transactions.
+
+Use Case #5: Mergers and Acquisitions
+Many factors can impact the success of mergers and acquisitions (M&A) and their successful integration as merging with or acquiring new companies inevitably brings another ecosystem of applications, operations, data/content, and vernacular. The process of knowledge transfer and the challenge to enable strategic alignment of processes and data is becoming a rising concern to the already delicate success of M&As. For a knowledge graph, data relationships are first class citizens. Thus, graphs offer ways to semantically harmonize, store, and connect similar or related organizational concepts. The approach further represents information in the way people speak using taxonomies and ontological schemas that allow for storing data with organizational context.
+Real World Examples:
+Product/Solution Alignment for the World’s Leading Provider of Content Management and Intellectual Property Services
+“We have gone through multiple M&As over the past 5 years. We are looking for a way to connect and standardize the data we have across 40 systems that have some overlapping applications, data, and users.”
+“On our e-commerce platforms, it’s not clear what our specific products or solutions are. We are losing business due to our inability to consistently name and describe our solution offerings across the organization. How can we align our terminology on our products and solutions company wide?”
+Solution Outcome: Graph solution allows for explicitly capturing and aligning the knowledge and data models by providing a comprehensive and structured representation of entities and their relationships. This is aiding in the due diligence process by allowing for the quick identification and analysis of key stakeholders, competitors, and potential synergies. Additionally, the graph serves as a useful tool for gaining a better understanding of the complexities involved in mergers, facilitates the deduplication of work or loss of information and intelligence across and enables context-based decision making.
+Use Case #6: Data Quality and Governance
+The size and complexity of data sources and datasets is making traditional data dictionaries and Entity Relationship Diagrams (ERD) inadequate. Knowledge Graphs provide structure for all types of data – either serving as a semantic layer or as a domain mapping solution – and enable the creation of multilateral relations across data sources, explicitly capturing how the data is being used, and what changes are being made to data. As such, knowledge graphs support data governance and quality inspection by providing a contextual understanding of enterprise data, where it is, who can access it and where, and how it will be shared or changed over time. As such, data governance strategies that are leveraging knowledge graph solutions have increased data accessibility and improved data quality and observability at scale. 
+Real World Examples:
+Graph for Data Quality at a Global Digital Marketer
+“Our enterprise has over 20 child organizations that:
+
+Lack transparency over which common data sets were available for use,
+Did not understand the quality of the data available,
+Have drastically different definitions of key terms, and 
+Use a database of consumer data containing over 10 billion records, with dirty data and millions of duplicates.”
+
+Solution Outcome: A Graph creation and mapping process alone reduced record count from ~10 billion to ~4 billion with matching algorithms that optimized QA process resulting in 80% record deduplication with 95% accuracy.
+Use Case #7: Data as a Product (and Data Interoperability)
+Every enterprise data strategy strives to facilitate the flexibility that will allow data to move between current and future systems, minimize limitations of proprietary solutions and avoid vendor lock. To do so, data needs to be created based on a shared terminology, web standards, and security protocols. The Financial Industry Business Ontology (FIBO) from the EDM Council is an example of a conceptual graph model that provides common vocabulary and meaning for key concepts and terms for the financial industry and a way to align and harmonize data irrespective of its source. As a standards’- based data model, graphs allow for consistent ingestion of diverse information types from sources internal or external to the organization (e.g. Linked Data, subscriptions, purchased datasets, etc.). Ultimately allowing organizations to handle large data coming from various sources, including public sources and boost knowledge discovery, industry compliance, and efficient data-driven analytics. 
+Real World Examples:
+Data-as-a-Product for Global Veterinary that Provides a Comprehensive Suite of Products, Software, and Services for Veterinary Professionals
+“Most of our highly interrelated data is stuck behind 4-5 legacy data platforms and it’s hard to unify and understand our data which is slowing down our engineering processes. Ultimately, we need a way to model and describe business processes and data flow between individual veterinary practices and enrich and align their data with industry standards. This will allow us to normalize services, improve efficiency and create the ability to report on the data across practices as well as trends within a specific practice.”
+Solution Outcome: Taxonomy/ontology was used as a schema to generate the graph and to describe the key types of ‘things’ vet partners were interested in and how they relate to each other. This is ensuring the use of a common vocabulary from all veterinary practices submitting data and resulting in:
+
+Automation of data normalization,
+Identification of potential drug targets and understanding the relationships between different molecules, and
+Enablement of the company to provide the ontological data model as a product and a shareable industry standard
+
+Use Case #8: Semantic Search
+“Search doesn’t work” usually is a common sentiment at organizations that are only leveraging key words to determine what search results should look like. Semantic search, at its core, is a Search that provides results based on context and meaning. Search relevance, or a search engine’s ability to find and return a page of search results to user intent, isn’t possible without semantic understanding. Knowledge graphs thus create a machine-readable structure that will allow systems to explicitly capture context and thus search engines to understand concepts, entities and the relationships between them. 
+Today, many of the search engines we use such as Google, Amazon, Airbnb, etc., all leverage multiple knowledge graphs, along with natural language processing (NLP) and machine learning (ML) to go beyond basic keyword-based searching. Understanding semantic search is becoming fundamental to providing a good search experience that’s rooted in a deep understanding of users and ultimately driving the intended digital experience that garners trust and adoption (be it knowledge transfer, enterprise learning, employee/customer retention, or increased sales).
+Real World Examples:
+Expert Finder for a Federal Engineering Research Institute 
+“We have a retiring workforce and are facing challenges with brain drain. We would like to be able to get quick answers to questions like:
+
+What type of paint did we use to manufacture this engineering part in 1956?”
+
+Solution Outcomes: A graph model enables browsing and discovery of previously uncaptured relationships between people, roles, projects, organizations, and engineering materials to aggregate and return in search results. Providing a unified view of institutional information and resulting in reduced time to find an expert and project information from 3-4 weeks to 5-10 minutes.
+Use Case #9: Context and Reasoning for AI and ML
+Most Enterprise AI projects are stalled due to lack of strategy to get data and knowledge. AI efforts had typically started with Data scientists getting hired to explore and figure out what’s in the data. They often get stuck after some exploration with fundamental questions like: what problem am I solving or how do I know this is good training data? This is resulting in mistakes in the algorithms, bad AI errors, ultimately lack of trust, and then abandonment of AI efforts. Data on its own, does not explain itself nor its journey. Data is only valuable in the context of what it means to end users. Knowledge graphs provide ML and AI a knowledge modeling approach to accelerate the data exploration, connection, and feature extraction process and provide automated data classification based on context during data preparation for AI and ML. 
+Real World Examples:
+A Semantic Recommendation Service for a Scientific Products and Software Services Supplier
+“We need to improve our ML algorithms to automate the aggregation of products and related marketing and manuals, videos, etc. to make personalized content recommendations to our customers investing in our products. This is currently a manual process that requires significant time investment and resources from Marketing, Products, IT. This is becoming business critical for us to manage at a global scale.”
+Solution Outcomes: Graph provides a comprehensive and organized view of data, helping improve the performance and explainability of models, and automating several tasks. Specifically, the graph is supporting:
+
+Data integration/preparation: integrate and organize data from various sources such as marketing content platforms, Product Information management (PIM) application and more making it easier for ML and AI models to access and understand the data by encoding context through metadata and taxonomies.
+Automation: support the automation of tasks such as data annotation, data curation, data pre-processing and so on, which can help save time and resources.
+Explanation: a way to understand and explain the decisions made by ML and AI models, increasing trust and transparency.
+Reasoning: the graph is used to perform reasoning and inferences, which help the ML and AI algorithms to make more accurate predictions on content recommendations.
+Personalization: using the knowledge graph, AI is extracting user’s preference and behavior to provide personalized services for a given product.
+
+
+For more details and use cases visit Enterprise Knowledge.
+
+
+
+
+"
+18,https://enterprise-knowledge.com/what-is-a-ccms-and-why-do-i-need-one/,"
+If you work on a content or technology team, you may have heard about Component Content Management Systems (CCMS) and wondered, “do we need that?” CCMSs have grown in popularity over the past few years and have begun to prove their worth as a valuable content management technology for many organizations. What is the buzz about, and why might a CCMS help further your content goals?
+What are CCMSs?
+Fundamentally, CCMSs are content management systems that manage content at a component level as opposed to a document level. To break that down further, let’s first define how traditional content management systems (CMS) store content. Traditional CMSs store and tag content by document, even if it consists of many different elements or topics within it. A CCMS, on the other hand, stores content as components that can be combined to build documents dynamically. These components can be thought of as the smaller chunks of content that make up a larger document. For example, a proposal writing team might leverage components to reuse elements of proposals and prevent the need to write from scratch during each effort. The company description, pricing, and legal section might all be separate components that can be selected and reused in as many proposals as needed. This granular level of management creates opportunities to leverage and reuse content in new and valuable ways. Teams no longer have to spend time either searching for and then copy-pasting content from one document to another or simply writing new content. With a CCMS, content teams know they have pre-written and approved sets of content components they can rely on when composing and publishing new content. 
+
+
+ 
+Signs a CCMS is Right for Your Org
+Below are a few factors that you can use to assess if a CCMS is right for your organization.
+
+Your users need to find pieces of information quickly. Search experience can be improved immensely with a CCMS. For example, users in a call center or help desk environment need to quickly and authoritatively respond to customer questions and requests. If they have to make multiple clicks and scrolls to get to the information they need and then have to spend time assessing whether they’ve found the correct information, this consumes precious time during customer interaction. A CCMS can serve specific, scannable information to users based on their search terms so that they more quickly arrive at the answer they’re looking for. This is especially powerful when users have to navigate through numerous versions of similar information, like product-specific guides or State by State laws/policies. 
+Users have to “Ctrl-F” to find what they need within documents. If your users frequently access documents that require performing a search within the document itself to drill down on a topic, a componentized content strategy, and consequently a CCMS, can revolutionize the way they interact with this content. Similar to the previous use case in which users can find small pieces of information more quickly through enterprise search, large documents can be componentized in order to save users time and clicks finding information.  
+Content frequently needs to be updated in multiple places. Research, laws, best practices, and other information related to specific knowledge domains are constantly evolving. The impetus is on content teams to maintain and update their organization’s content when new information becomes available. A CCMS allows users to edit components in one place and then push the update to all of the content it appears in their systems. This saves time and ensures that components are uniformly and accurately updated across all of the content it is a part of. 
+You are looking to implement a Knowledge Graph or advanced search application. A CCMS provides an excellent head start to implementing cutting-edge content management and search functionality. Content components can be used to assemble intuitive, specific search results and even underpin functionality like a knowledge panel. Check out one of the ways EK paired a CCMS with a knowledge graph to produce a flexible, adaptive, and customized content experience for a financial solutions provider.
+You are looking to implement more personalization. Customers have come to expect that the content they receive is contextualized for their specific needs. Audience groups would rather receive specific pieces of content relevant to their interests than longer documents that they need to spend time combing through to find the right information for them. A CCMS lets content teams compose personalized content by making it easy to assemble content using only components relevant to different audience groups. To dig into this further, read about how a CCMS paired with a Knowledge Graph can take personalization to the next level.  
+
+CCMSs have value beyond the use cases listed here, but this should get you thinking about how a CCMS might fit into your content ecosystem. You can read another example of how EK partnered with an organization to implement a CCMS here. If you are ready to explore CCMSs, EK has experts ready to advise on and implement a strategy that is best for you. 
+ 
+
+
+
+
+"
+19,https://enterprise-knowledge.com/what-team-do-you-need-for-successful-knowledge-graph-development/,"
+Many organizations look to take advantage of knowledge graphs to aggregate and align data from siloed systems, as well as enable explainable artificial intelligence solutions, but can get stalled if they don’t have enough experience building and scaling knowledge graphs. Design and development teams for knowledge graphs often operate similarly to other enterprise data product teams, requiring collaboration between analysts, engineers, team leads, and stakeholders. However, since knowledge graphs are standards-based and place a premium on business intelligence, they require a team that has strong facilitation and analytical skills with a specific foundation in information management and semantic web standards. This ensures that knowledge graph solutions will be relevant to users and interoperable within technical environments. 
+The technical expertise required for implementing a knowledge graph can be solved in various ways – through hiring, upskilling, or in-house consulting. Organizations often focus on their core, domain-specific capabilities, and these may not include skill sets in knowledge engineering. EK can enhance their capabilities through collaborative delivery or in-house consulting, working closely with domain experts to build and maintain knowledge graph services. We also offer a Knowledge Graph University to build the knowledge graph design and development competencies on your team. Depending on the nature of your organization, your team structure may vary. However, we find that the following roles and skill groups provide the core capabilities for many organizations to create a solution and program that is user-centered, standards-based, and well-integrated into your enterprise architecture.
+
+High-Level Teams for Knowledge Graph Development
+
+ 
+What Are the Teams and Skill Sets You Need?
+Product Success and Coordination
+This team ensures that the knowledge graph aligns with business needs and technical requirements. These individuals provide leadership and decision-making to the delivery team while communicating outcomes to stakeholders.
+It’s important to have a Business/Product Lead and Technical Lead that have experience with enterprise data solutions and can both guide internal development teams and be a point of contact for organizational leadership and other stakeholders. They are responsible for scoping and executing knowledge graph initiatives and should leverage product management best practices to be successful.
+This team will make sure that your solution is providing tangible value by translating business challenges into actionable use cases and guiding the knowledge graph in a sustainable and relevant fashion.  
+Knowledge Modeling and Data Preparation
+This team designs, maintains, and grows the ontology and taxonomy models that are the foundation for the knowledge graph. These key team members ensure the alignment and readiness of integrating source data with the knowledge model. 
+The knowledge modeling should be led by experienced ontologists, information architects, and taxonomists. These facilitators should interact with SMEs to design taxonomy and ontology models while applying semantic web standards (RDF, RDF*, SKOS, OWL) to ensure applicability and interoperability of the models and schemas. They collaborate closely with technical analysts who guide the data inventorying and define how data should be transformed and integrated according to the foundational schemas.
+This team is central to successful knowledge graph development, making sure that use cases in data standardization, artificial intelligence, search, and more can be achieved through defined data concepts and relationships. This team is successful when knowledge models embed business concepts in a machine readable manner and when source data relevant to the use cases can be ingested, transformed, and stored according to the model. 
+Data and Software Engineering
+These roles are responsible for implementing the pipelines and algorithms required for populating the graph solution, as well as building the infrastructure and connectivity between the graph and downstream applications.
+Semantic data engineers who have programming ability in data extraction/transformation and experience in data-centric applications are key to successful knowledge graph development. It’s important they have a skillset in querying and data manipulation languages, like SQL and Python, alongside experience working with graph-based querying languages and data types, like SPARQL, XML, RDF, JSON, and OWL. 
+Having an experienced data engineering team will accelerate your knowledge graph development, ensuring that technical solutions are high quality and well integrated into the enterprise architecture. One of the primary advantages of graph-based solutions is their flexibility and extensibility, and this team makes that tangible for the organization. 
+Establishing Your Team
+There is not a one-size-fits-all model for establishing a knowledge graph development team. The team structure and needs will differ depending on relevant use cases, where the knowledge graph fits in the enterprise architecture, and the complexity of the domain area. Fulfilling roles can happen in multiple ways. It is possible that a single person may fulfill multiple roles or that each role may be fulfilled by one or more people. Regardless of the team structure, it’s critical to have the right sets of skills represented to successfully achieve your knowledge graph use cases.
+At EK, we support many organizations in building out their capabilities to design and implement knowledge graph solutions, closely partnering with teams to close skill and experience gaps. If you’d like to work with us through in-house consulting, advising, training, and coaching, reach out to [email protected]. 
+
+
+
+
+"
